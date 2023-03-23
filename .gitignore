@@ -50,3 +50,8 @@ rsconnect/
 
 # Superceded scripts
 code/old/
+
+# Data files 
+raw_data/
+cleaned_data/
+
