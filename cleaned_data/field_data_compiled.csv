@@ -1,0 +1,1051 @@
+well,fluor,target,content,sample,date,biological_set_name,cq,cq_mean,cq_std._dev,starting_quantity_(sq),log_starting_quantity,sq_mean,sq_std._dev,set_point,well_note,file_name,location,type,frequency
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,33.8785588526097,33.8785588526097,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,NA,NA,NA
+a06,cal orange 560,iac,unkn,m1,NA,16s rrna,31.4428930853056,31.4428930853056,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+b06,cal orange 560,iac,unkn,m1,NA,16s rrna,31.3788987290798,31.3788987290798,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+c06,cal orange 560,iac,unkn,m1,NA,16s rrna,32.8851901279475,32.8851901279475,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+e06,cal orange 560,iac,unkn,m1,NA,16s rrna,32.2340616829828,32.2340616829828,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+f06,cal orange 560,iac,unkn,m1,NA,16s rrna,32.5840644664847,32.5840644664847,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+g06,cal orange 560,iac,unkn,m1,NA,16s rrna,33.2977426879369,33.2977426879369,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,34.0345508139607,34.0345508139607,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,22.0982388334236,22.0982388334236,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,NA,NA,NA
+a06,fam,total_cyano,unkn,m1,NA,16s rrna,22.0094555507511,22.0094555507511,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+b06,fam,total_cyano,unkn,m1,NA,16s rrna,24.511604215004,24.511604215004,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+c06,fam,total_cyano,unkn,m1,NA,16s rrna,22.1766672131986,22.1766672131986,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+e06,fam,total_cyano,unkn,m1,NA,16s rrna,24.6187125429062,24.6187125429062,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+f06,fam,total_cyano,unkn,m1,NA,16s rrna,26.5006366273875,26.5006366273875,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+g06,fam,total_cyano,unkn,m1,NA,16s rrna,24.5058219922684,24.5058219922684,0,NA,NA,NA,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,m1,NA,NA
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_16s_adsorption_dilutions_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,33.1745146356403,33.1745146356403,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,NA,NA,NA
+a05,cal orange 560,iac,unkn,fig,2021-10-26,16s rrna,29.9617571432248,29.9617571432248,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+a06,cal orange 560,iac,unkn,foa,2021-11-09,16s rrna,29.7946983498575,29.7946983498575,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,passive,weekly
+a07,cal orange 560,iac,unkn,fob,2021-11-30,16s rrna,29.9328320285961,29.9328320285961,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,passive,bi-weekly
+b05,cal orange 560,iac,unkn,fog,2021-10-26,16s rrna,30.3239709832005,30.3239709832005,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+b06,cal orange 560,iac,unkn,fig,2021-11-09,16s rrna,30.8857809169921,30.8857809169921,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+b07,cal orange 560,iac,unkn,fig,2021-11-30,16s rrna,30.521432656638,30.521432656638,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+c05,cal orange 560,iac,unkn,fia,2021-11-02,16s rrna,28.5003959883633,28.5003959883633,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,weekly
+c06,cal orange 560,iac,unkn,fog,2021-11-09,16s rrna,29.8991298067701,29.8991298067701,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+c07,cal orange 560,iac,unkn,fog,2021-11-30,16s rrna,30.2954154306829,30.2954154306829,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+d05,cal orange 560,iac,unkn,foa,2021-11-02,16s rrna,28.9973852390813,28.9973852390813,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,passive,weekly
+d06,cal orange 560,iac,unkn,fia,2021-11-16,16s rrna,30.1365558459664,30.1365558459664,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,weekly
+d07,cal orange 560,iac,unkn,cp,2021-11-04,16s rrna,31.5244777924548,31.5244777924548,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,intake,passive,weekly
+e05,cal orange 560,iac,unkn,fig,2021-11-02,16s rrna,30.4542385837792,30.4542385837792,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+e06,cal orange 560,iac,unkn,foa,2021-11-16,16s rrna,28.469906887555,28.469906887555,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,passive,weekly
+e07,cal orange 560,iac,unkn,cp,2021-11-25,16s rrna,30.6593321430914,30.6593321430914,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,intake,passive,weekly
+f05,cal orange 560,iac,unkn,fog,2021-11-02,16s rrna,29.6630406752886,29.6630406752886,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+f06,cal orange 560,iac,unkn,fig,2021-11-16,16s rrna,31.0783395465555,31.0783395465555,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+f07,cal orange 560,iac,unkn,mc1,NA,16s rrna,29.204585743875,29.204585743875,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,mc1,NA,NA
+g05,cal orange 560,iac,unkn,fia,2021-11-09,16s rrna,29.516866534659,29.516866534659,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,weekly
+g06,cal orange 560,iac,unkn,fog,2021-11-16,16s rrna,29.8807999518375,29.8807999518375,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+h05,cal orange 560,iac,unkn,fib,2021-11-09,16s rrna,28.7857414735451,28.7857414735451,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,bi-weekly
+h06,cal orange 560,iac,unkn,fib,2021-11-30,16s rrna,29.8691880123628,29.8691880123628,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,bi-weekly
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,32.5288624982885,32.5288624982885,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,21.6852877797646,21.6852877797646,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,NA,NA,NA
+a05,fam,total_cyano,unkn,fig,2021-10-26,16s rrna,22.4286206710113,22.4286206710113,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+a06,fam,total_cyano,unkn,foa,2021-11-09,16s rrna,24.9438934745724,24.9438934745724,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,passive,weekly
+a07,fam,total_cyano,unkn,fob,2021-11-30,16s rrna,24.5908360843919,24.5908360843919,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,passive,bi-weekly
+b05,fam,total_cyano,unkn,fog,2021-10-26,16s rrna,21.4967379061117,21.4967379061117,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+b06,fam,total_cyano,unkn,fig,2021-11-09,16s rrna,20.9424764424234,20.9424764424234,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+b07,fam,total_cyano,unkn,fig,2021-11-30,16s rrna,21.2135642882397,21.2135642882397,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+c05,fam,total_cyano,unkn,fia,2021-11-02,16s rrna,24.1234904748837,24.1234904748837,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,weekly
+c06,fam,total_cyano,unkn,fog,2021-11-09,16s rrna,22.6729658531896,22.6729658531896,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+c07,fam,total_cyano,unkn,fog,2021-11-30,16s rrna,21.4204656368927,21.4204656368927,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+d05,fam,total_cyano,unkn,foa,2021-11-02,16s rrna,23.2339432947367,23.2339432947367,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,passive,weekly
+d06,fam,total_cyano,unkn,fia,2021-11-16,16s rrna,24.0946430453716,24.0946430453716,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,weekly
+d07,fam,total_cyano,unkn,cp,2021-11-04,16s rrna,26.8234417709592,26.8234417709592,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,intake,passive,weekly
+e05,fam,total_cyano,unkn,fig,2021-11-02,16s rrna,21.4277886693759,21.4277886693759,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+e06,fam,total_cyano,unkn,foa,2021-11-16,16s rrna,24.714784805766,24.714784805766,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,passive,weekly
+e07,fam,total_cyano,unkn,cp,2021-11-25,16s rrna,24.512105652412,24.512105652412,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,intake,passive,weekly
+f05,fam,total_cyano,unkn,fog,2021-11-02,16s rrna,22.5226005267097,22.5226005267097,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+f06,fam,total_cyano,unkn,fig,2021-11-16,16s rrna,20.8344774116156,20.8344774116156,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,grab,weekly
+f07,fam,total_cyano,unkn,mc1,NA,16s rrna,20.2144690952521,20.2144690952521,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,mc1,NA,NA
+g05,fam,total_cyano,unkn,fia,2021-11-09,16s rrna,22.8752362797732,22.8752362797732,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,weekly
+g06,fam,total_cyano,unkn,fog,2021-11-16,16s rrna,22.454923673904,22.454923673904,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,outlet,grab,weekly
+h05,fam,total_cyano,unkn,fib,2021-11-09,16s rrna,22.4019636486248,22.4019636486248,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,bi-weekly
+h06,fam,total_cyano,unkn,fib,2021-11-30,16s rrna,21.65816167163,21.65816167163,0,NA,NA,NA,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,inlet,passive,bi-weekly
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_16s_fl_oc26-no30_monc_no4_t0_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,31.4030294650674,31.4030294650674,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,NA,NA,NA
+a12,cal orange 560,iac,unkn,foa,2021-10-26,16s rrna,29.8706926241184,29.8706926241184,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,outlet,passive,weekly
+b12,cal orange 560,iac,unkn,fib,2021-10-26,16s rrna,29.5303987428359,29.5303987428359,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,inlet,passive,bi-weekly
+c12,cal orange 560,iac,unkn,fob,2021-10-26,16s rrna,29.5191626682896,29.5191626682896,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,outlet,passive,bi-weekly
+f01,cal orange 560,iac,unkn,wl,NA,16s rrna,30.8317375423036,30.8317375423036,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,wl,NA,NA
+g01,cal orange 560,iac,unkn,cp,2021-10-14,16s rrna,30.225184735274,30.225184735274,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,intake,passive,weekly
+h01,cal orange 560,iac,unkn,fia,2021-10-26,16s rrna,30.3386506679637,30.3386506679637,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,inlet,passive,weekly
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,31.4282115696145,31.4282115696145,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,20.9177260808289,20.9177260808289,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,NA,NA,NA
+a12,fam,total_cyano,unkn,foa,2021-10-26,16s rrna,23.2893841641066,23.2893841641066,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,outlet,passive,weekly
+b12,fam,total_cyano,unkn,fib,2021-10-26,16s rrna,23.3507581380558,23.3507581380558,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,inlet,passive,bi-weekly
+c12,fam,total_cyano,unkn,fob,2021-10-26,16s rrna,22.1033199285448,22.1033199285448,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,outlet,passive,bi-weekly
+f01,fam,total_cyano,unkn,wl,NA,16s rrna,22.2292099996155,22.2292099996155,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,wl,NA,NA
+g01,fam,total_cyano,unkn,cp,2021-10-14,16s rrna,22.320573575102,22.320573575102,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,intake,passive,weekly
+h01,fam,total_cyano,unkn,fia,2021-10-26,16s rrna,23.3854658027464,23.3854658027464,0,NA,NA,NA,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,inlet,passive,weekly
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_16s_wl-t0_cp-oc14_fl-oc26_ts_results,NA,NA,NA
+a01,cal orange 560,cyra,pos ctrl,NA,NA,toxins,19.6067828995968,19.6067828995968,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,NA,NA,NA
+a12,cal orange 560,cyra,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+b12,cal orange 560,cyra,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+e01,cal orange 560,cyra,unkn,cp,2021-09-23,toxins,38.8503831757989,38.8503831757989,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+e02,cal orange 560,cyra,unkn,cp,2021-11-04,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+f01,cal orange 560,cyra,unkn,cp,2021-09-29,toxins,35.3592868632293,35.3592868632293,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+f02,cal orange 560,cyra,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+g01,cal orange 560,cyra,unkn,cp,2021-10-07,toxins,33.6285918696972,33.6285918696972,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+g02,cal orange 560,cyra,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+h01,cal orange 560,cyra,unkn,cp,2021-10-14,toxins,30.4006578272066,30.4006578272066,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+h02,cal orange 560,cyra,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,NA,NA,NA
+a01,cal red 610,sxta,pos ctrl,NA,NA,toxins,21.646283326702,21.646283326702,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,NA,NA,NA
+a12,cal red 610,sxta,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+b12,cal red 610,sxta,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+e01,cal red 610,sxta,unkn,cp,2021-09-23,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+e02,cal red 610,sxta,unkn,cp,2021-11-04,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+f01,cal red 610,sxta,unkn,cp,2021-09-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+f02,cal red 610,sxta,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+g01,cal red 610,sxta,unkn,cp,2021-10-07,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+g02,cal red 610,sxta,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+h01,cal red 610,sxta,unkn,cp,2021-10-14,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+h02,cal red 610,sxta,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,NA,NA,NA
+a01,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,22.218760218933,22.218760218933,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,NA,NA,NA
+a12,fam,mcye_ndaf,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+b12,fam,mcye_ndaf,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+e01,fam,mcye_ndaf,unkn,cp,2021-09-23,toxins,31.2717878293485,31.2717878293485,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+e02,fam,mcye_ndaf,unkn,cp,2021-11-04,toxins,37.2343148876604,37.2343148876604,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+f01,fam,mcye_ndaf,unkn,cp,2021-09-29,toxins,28.4668319792767,28.4668319792767,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+f02,fam,mcye_ndaf,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+g01,fam,mcye_ndaf,unkn,cp,2021-10-07,toxins,27.4826245108198,27.4826245108198,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+g02,fam,mcye_ndaf,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+h01,fam,mcye_ndaf,unkn,cp,2021-10-14,toxins,28.9604019205403,28.9604019205403,0,NA,NA,NA,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,intake,passive,weekly
+h02,fam,mcye_ndaf,unkn,cl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,cl,NA,NA
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_cp_toxins-se23-no4_cl-au18_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,31.0461545203063,31.0461545203063,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,NA,NA,NA
+a02,cal orange 560,iac,unkn,fig,2021-08-10,16s rrna,29.9391650336288,29.9391650336288,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,grab,weekly
+a03,cal orange 560,iac,unkn,fob,2021-08-24,16s rrna,28.3083515547766,28.3083515547766,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,bi-weekly
+b01,cal orange 560,iac,unkn,fib,2021-08-03,16s rrna,28.1172327696227,28.1172327696227,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,bi-weekly
+b02,cal orange 560,iac,unkn,fog,2021-08-10,16s rrna,29.1647641895137,29.1647641895137,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,grab,weekly
+b03,cal orange 560,iac,unkn,fig,2021-08-24,16s rrna,29.9605710402601,29.9605710402601,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,grab,weekly
+c01,cal orange 560,iac,unkn,foa,2021-08-03,16s rrna,29.7157171730927,29.7157171730927,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,weekly
+c02,cal orange 560,iac,unkn,fia,2021-08-17,16s rrna,27.9066740906329,27.9066740906329,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,weekly
+c03,cal orange 560,iac,unkn,fog,2021-08-24,16s rrna,29.2806102868643,29.2806102868643,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,grab,weekly
+d01,cal orange 560,iac,unkn,fob,2021-08-03,16s rrna,28.3303194787841,28.3303194787841,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,bi-weekly
+d02,cal orange 560,iac,unkn,fib,2021-08-17,16s rrna,27.0178102247763,27.0178102247763,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,bi-weekly
+d03,cal orange 560,iac,unkn,fia,2021-08-31,16s rrna,28.5089264399232,28.5089264399232,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,weekly
+e01,cal orange 560,iac,unkn,fig,2021-08-03,16s rrna,29.9626628589671,29.9626628589671,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,grab,weekly
+e02,cal orange 560,iac,unkn,fig,2021-08-17,16s rrna,30.3388463744742,30.3388463744742,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,grab,weekly
+e03,cal orange 560,iac,unkn,fib,2021-08-31,16s rrna,27.8161379161588,27.8161379161588,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,bi-weekly
+f01,cal orange 560,iac,unkn,fog,2021-08-03,16s rrna,28.7936289927809,28.7936289927809,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,grab,weekly
+f02,cal orange 560,iac,unkn,fog,2021-08-17,16s rrna,29.4787393383146,29.4787393383146,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,grab,weekly
+f03,cal orange 560,iac,unkn,foa,2021-08-31,16s rrna,28.9796054047405,28.9796054047405,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,weekly
+g01,cal orange 560,iac,unkn,fia,2021-08-10,16s rrna,27.7060495861365,27.7060495861365,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,weekly
+g02,cal orange 560,iac,unkn,fia,2021-08-24,16s rrna,27.8085461086903,27.8085461086903,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,weekly
+g03,cal orange 560,iac,unkn,fob,2021-08-31,16s rrna,28.4896476938575,28.4896476938575,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,bi-weekly
+h01,cal orange 560,iac,unkn,foa,2021-08-10,16s rrna,28.3774464668814,28.3774464668814,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,weekly
+h02,cal orange 560,iac,unkn,foa,2021-08-24,16s rrna,29.9676119438543,29.9676119438543,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,weekly
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,31.8462082680454,31.8462082680454,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,26.5442799433326,26.5442799433326,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,NA,NA,NA
+a02,fam,total_cyano,unkn,fig,2021-08-10,16s rrna,21.5856495786748,21.5856495786748,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,grab,weekly
+a03,fam,total_cyano,unkn,fob,2021-08-24,16s rrna,25.154608219826,25.154608219826,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,bi-weekly
+b01,fam,total_cyano,unkn,fib,2021-08-03,16s rrna,20.4005079143558,20.4005079143558,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,bi-weekly
+b02,fam,total_cyano,unkn,fog,2021-08-10,16s rrna,21.1878957647232,21.1878957647232,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,grab,weekly
+b03,fam,total_cyano,unkn,fig,2021-08-24,16s rrna,22.254133230633,22.254133230633,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,grab,weekly
+c01,fam,total_cyano,unkn,foa,2021-08-03,16s rrna,23.0328182560008,23.0328182560008,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,weekly
+c02,fam,total_cyano,unkn,fia,2021-08-17,16s rrna,22.3323431989169,22.3323431989169,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,weekly
+c03,fam,total_cyano,unkn,fog,2021-08-24,16s rrna,21.5818606044279,21.5818606044279,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,grab,weekly
+d01,fam,total_cyano,unkn,fob,2021-08-03,16s rrna,22.3875858286751,22.3875858286751,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,bi-weekly
+d02,fam,total_cyano,unkn,fib,2021-08-17,16s rrna,22.094945793033,22.094945793033,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,bi-weekly
+d03,fam,total_cyano,unkn,fia,2021-08-31,16s rrna,22.242928287472,22.242928287472,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,weekly
+e01,fam,total_cyano,unkn,fig,2021-08-03,16s rrna,22.556614843996,22.556614843996,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,grab,weekly
+e02,fam,total_cyano,unkn,fig,2021-08-17,16s rrna,21.7804116804062,21.7804116804062,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,grab,weekly
+e03,fam,total_cyano,unkn,fib,2021-08-31,16s rrna,20.872961358702,20.872961358702,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,bi-weekly
+f01,fam,total_cyano,unkn,fog,2021-08-03,16s rrna,21.9962421833175,21.9962421833175,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,grab,weekly
+f02,fam,total_cyano,unkn,fog,2021-08-17,16s rrna,21.9526669971829,21.9526669971829,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,grab,weekly
+f03,fam,total_cyano,unkn,foa,2021-08-31,16s rrna,23.2179055941357,23.2179055941357,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,weekly
+g01,fam,total_cyano,unkn,fia,2021-08-10,16s rrna,22.2075740874996,22.2075740874996,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,weekly
+g02,fam,total_cyano,unkn,fia,2021-08-24,16s rrna,23.3213600404371,23.3213600404371,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,inlet,passive,weekly
+g03,fam,total_cyano,unkn,fob,2021-08-31,16s rrna,26.3941723178511,26.3941723178511,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,bi-weekly
+h01,fam,total_cyano,unkn,foa,2021-08-10,16s rrna,24.1937778861654,24.1937778861654,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,weekly
+h02,fam,total_cyano,unkn,foa,2021-08-24,16s rrna,23.9309786323549,23.9309786323549,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,outlet,passive,weekly
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_au3-au31_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,32.03746303756,32.03746303756,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,NA,NA,NA
+a02,cal orange 560,iac,unkn,fib,2021-09-14,16s rrna,27.8757402488838,27.8757402488838,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,passive,bi-weekly
+a03,cal orange 560,iac,unkn,cp,2021-07-15,16s rrna,29.8852896725507,29.8852896725507,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+b01,cal orange 560,iac,unkn,fig,2021-08-31,16s rrna,30.029869484085,30.029869484085,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,grab,weekly
+b02,cal orange 560,iac,unkn,foa,2021-09-14,16s rrna,27.863097907019,27.863097907019,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,passive,weekly
+b03,cal orange 560,iac,unkn,cp,2021-07-22,16s rrna,30.6379912760783,30.6379912760783,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+c01,cal orange 560,iac,unkn,fog,2021-08-31,16s rrna,29.416951776538,29.416951776538,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,grab,weekly
+c02,cal orange 560,iac,unkn,fob,2021-09-14,16s rrna,27.8436094064426,27.8436094064426,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,passive,bi-weekly
+c03,cal orange 560,iac,unkn,cp,2021-07-28,16s rrna,30.0055033889409,30.0055033889409,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+d01,cal orange 560,iac,unkn,fia,2021-09-07,16s rrna,28.173218228069,28.173218228069,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,passive,weekly
+d02,cal orange 560,iac,unkn,fig,2021-09-14,16s rrna,30.0776933728165,30.0776933728165,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,grab,weekly
+d03,cal orange 560,iac,unkn,cp,2021-08-05,16s rrna,29.7426434545688,29.7426434545688,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+e01,cal orange 560,iac,unkn,foa,2021-09-07,16s rrna,27.9158443323611,27.9158443323611,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,passive,weekly
+e02,cal orange 560,iac,unkn,fog,2021-09-14,16s rrna,29.0159649959524,29.0159649959524,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,grab,weekly
+e03,cal orange 560,iac,unkn,cp,2021-08-12,16s rrna,30.3831169609753,30.3831169609753,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+f01,cal orange 560,iac,unkn,fig,2021-09-07,16s rrna,29.7769543103493,29.7769543103493,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,grab,weekly
+f02,cal orange 560,iac,unkn,cp,2021-06-24,16s rrna,29.4075327307176,29.4075327307176,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+f03,cal orange 560,iac,unkn,cp,2021-08-19,16s rrna,29.5645707358624,29.5645707358624,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+g01,cal orange 560,iac,unkn,fog,2021-09-07,16s rrna,29.6469194784484,29.6469194784484,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,grab,weekly
+g02,cal orange 560,iac,unkn,cp,2021-06-30,16s rrna,29.7400350403524,29.7400350403524,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+g03,cal orange 560,iac,unkn,cp,2021-08-26,16s rrna,29.722113159338,29.722113159338,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+h01,cal orange 560,iac,unkn,fia,2021-09-14,16s rrna,28.0886232465934,28.0886232465934,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,passive,weekly
+h02,cal orange 560,iac,unkn,cp,2021-07-08,16s rrna,30.1627698085445,30.1627698085445,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,32.4025279982858,32.4025279982858,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,24.482329350127,24.482329350127,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,NA,NA,NA
+a02,fam,total_cyano,unkn,fib,2021-09-14,16s rrna,20.1082863755848,20.1082863755848,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,passive,bi-weekly
+a03,fam,total_cyano,unkn,cp,2021-07-15,16s rrna,21.3459408233925,21.3459408233925,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+b01,fam,total_cyano,unkn,fig,2021-08-31,16s rrna,20.5344681697226,20.5344681697226,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,grab,weekly
+b02,fam,total_cyano,unkn,foa,2021-09-14,16s rrna,21.1664816616202,21.1664816616202,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,passive,weekly
+b03,fam,total_cyano,unkn,cp,2021-07-22,16s rrna,21.5046712872795,21.5046712872795,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+c01,fam,total_cyano,unkn,fog,2021-08-31,16s rrna,20.2061154936644,20.2061154936644,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,grab,weekly
+c02,fam,total_cyano,unkn,fob,2021-09-14,16s rrna,21.7977318692372,21.7977318692372,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,passive,bi-weekly
+c03,fam,total_cyano,unkn,cp,2021-07-28,16s rrna,21.4147213335457,21.4147213335457,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+d01,fam,total_cyano,unkn,fia,2021-09-07,16s rrna,20.0627982417632,20.0627982417632,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,passive,weekly
+d02,fam,total_cyano,unkn,fig,2021-09-14,16s rrna,20.1249093708972,20.1249093708972,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,grab,weekly
+d03,fam,total_cyano,unkn,cp,2021-08-05,16s rrna,21.3484323349402,21.3484323349402,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+e01,fam,total_cyano,unkn,foa,2021-09-07,16s rrna,20.9862452790227,20.9862452790227,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,passive,weekly
+e02,fam,total_cyano,unkn,fog,2021-09-14,16s rrna,20.1093294506889,20.1093294506889,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,grab,weekly
+e03,fam,total_cyano,unkn,cp,2021-08-12,16s rrna,22.8878699796194,22.8878699796194,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+f01,fam,total_cyano,unkn,fig,2021-09-07,16s rrna,20.6087467323756,20.6087467323756,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,grab,weekly
+f02,fam,total_cyano,unkn,cp,2021-06-24,16s rrna,22.8004707016019,22.8004707016019,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+f03,fam,total_cyano,unkn,cp,2021-08-19,16s rrna,21.6926423518966,21.6926423518966,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+g01,fam,total_cyano,unkn,fog,2021-09-07,16s rrna,20.2357307224081,20.2357307224081,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,outlet,grab,weekly
+g02,fam,total_cyano,unkn,cp,2021-06-30,16s rrna,22.4695954724597,22.4695954724597,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+g03,fam,total_cyano,unkn,cp,2021-08-26,16s rrna,21.4699748462341,21.4699748462341,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+h01,fam,total_cyano,unkn,fia,2021-09-14,16s rrna,22.3804081565738,22.3804081565738,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,inlet,passive,weekly
+h02,fam,total_cyano,unkn,cp,2021-07-08,16s rrna,23.2525359510237,23.2525359510237,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,intake,passive,weekly
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_au31-se14_cp_16s_ju25-au26_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,32.3430669900791,32.3430669900791,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,NA,NA,NA
+a02,cal orange 560,iac,unkn,foa2,2021-06-15,16s rrna,30.6232379225461,30.6232379225461,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+a03,cal orange 560,iac,unkn,fob2,2021-06-17,16s rrna,30.7306004928549,30.7306004928549,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,bi-weekly
+b01,cal orange 560,iac,unkn,fia1,2021-06-12,16s rrna,30.9324587384971,30.9324587384971,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+b02,cal orange 560,iac,unkn,fia1,2021-06-17,16s rrna,29.4639226166272,29.4639226166272,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+b03,cal orange 560,iac,unkn,fia,2021-06-22,16s rrna,29.5166297900536,29.5166297900536,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+c01,cal orange 560,iac,unkn,fia2,2021-06-12,16s rrna,31.3891753792332,31.3891753792332,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+c02,cal orange 560,iac,unkn,fia2,2021-06-17,16s rrna,30.2500788173933,30.2500788173933,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+c03,cal orange 560,iac,unkn,foa,2021-06-22,16s rrna,30.9219539869237,30.9219539869237,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+d01,cal orange 560,iac,unkn,foa1,2021-06-12,16s rrna,30.3159194888052,30.3159194888052,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+d02,cal orange 560,iac,unkn,fib1,2021-06-17,16s rrna,31.6804534503522,31.6804534503522,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,bi-weekly
+d03,cal orange 560,iac,unkn,fia,2021-06-25,16s rrna,30.1333866393414,30.1333866393414,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+e01,cal orange 560,iac,unkn,foa2,2021-06-12,16s rrna,30.3364537153153,30.3364537153153,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+e02,cal orange 560,iac,unkn,fib2,2021-06-17,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,bi-weekly
+e03,cal orange 560,iac,unkn,fib,2021-06-25,16s rrna,29.8657514840545,29.8657514840545,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,bi-weekly
+f01,cal orange 560,iac,unkn,fia1,2021-06-15,16s rrna,30.5082887135276,30.5082887135276,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+f02,cal orange 560,iac,unkn,foa1,2021-06-17,16s rrna,30.9166774397588,30.9166774397588,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+f03,cal orange 560,iac,unkn,foa,2021-06-25,16s rrna,30.9763740522125,30.9763740522125,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+g01,cal orange 560,iac,unkn,fia2,2021-06-15,16s rrna,30.1410797240466,30.1410797240466,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+g02,cal orange 560,iac,unkn,foa2,2021-06-17,16s rrna,30.5884442172509,30.5884442172509,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+g03,cal orange 560,iac,unkn,fob,2021-06-25,16s rrna,29.694290989452,29.694290989452,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h01,cal orange 560,iac,unkn,foa1,2021-06-15,16s rrna,31.1492625161791,31.1492625161791,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+h02,cal orange 560,iac,unkn,fob1,2021-06-17,16s rrna,30.4635772328003,30.4635772328003,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,32.8670778573512,32.8670778573512,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,18.7747884932991,18.7747884932991,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,NA,NA,NA
+a02,fam,total_cyano,unkn,foa2,2021-06-15,16s rrna,22.973895788073,22.973895788073,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+a03,fam,total_cyano,unkn,fob2,2021-06-17,16s rrna,23.6663913023999,23.6663913023999,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,bi-weekly
+b01,fam,total_cyano,unkn,fia1,2021-06-12,16s rrna,24.6243589177857,24.6243589177857,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+b02,fam,total_cyano,unkn,fia1,2021-06-17,16s rrna,24.3462181810734,24.3462181810734,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+b03,fam,total_cyano,unkn,fia,2021-06-22,16s rrna,22.6360140663654,22.6360140663654,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+c01,fam,total_cyano,unkn,fia2,2021-06-12,16s rrna,24.376806092301,24.376806092301,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+c02,fam,total_cyano,unkn,fia2,2021-06-17,16s rrna,24.3325480480881,24.3325480480881,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+c03,fam,total_cyano,unkn,foa,2021-06-22,16s rrna,22.7268798524385,22.7268798524385,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+d01,fam,total_cyano,unkn,foa1,2021-06-12,16s rrna,24.3251968472561,24.3251968472561,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+d02,fam,total_cyano,unkn,fib1,2021-06-17,16s rrna,25.1600061370487,25.1600061370487,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,bi-weekly
+d03,fam,total_cyano,unkn,fia,2021-06-25,16s rrna,24.2801470104136,24.2801470104136,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+e01,fam,total_cyano,unkn,foa2,2021-06-12,16s rrna,24.8026086980012,24.8026086980012,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+e02,fam,total_cyano,unkn,fib2,2021-06-17,16s rrna,29.9938122638612,29.9938122638612,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,bi-weekly
+e03,fam,total_cyano,unkn,fib,2021-06-25,16s rrna,22.3490703827504,22.3490703827504,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,bi-weekly
+f01,fam,total_cyano,unkn,fia1,2021-06-15,16s rrna,24.3340592375174,24.3340592375174,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+f02,fam,total_cyano,unkn,foa1,2021-06-17,16s rrna,22.6024383939412,22.6024383939412,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+f03,fam,total_cyano,unkn,foa,2021-06-25,16s rrna,23.7728662700764,23.7728662700764,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+g01,fam,total_cyano,unkn,fia2,2021-06-15,16s rrna,24.787493764842502,24.787493764842502,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,inlet,passive,weekly
+g02,fam,total_cyano,unkn,foa2,2021-06-17,16s rrna,22.3397189715575,22.3397189715575,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+g03,fam,total_cyano,unkn,fob,2021-06-25,16s rrna,23.6674121445747,23.6674121445747,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h01,fam,total_cyano,unkn,foa1,2021-06-15,16s rrna,23.3500492546713,23.3500492546713,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,weekly
+h02,fam,total_cyano,unkn,fob1,2021-06-17,16s rrna,23.800741580387,23.800741580387,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_ju12-ju25_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,31.3402807375804,31.3402807375804,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,NA,NA,NA
+a02,cal orange 560,iac,unkn,fia,2021-07-13,16s rrna,27.933195640123,27.933195640123,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+a03,cal orange 560,iac,unkn,fig,2021-07-20,16s rrna,30.3465810689413,30.3465810689413,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,grab,weekly
+b01,cal orange 560,iac,unkn,fia,2021-06-29,16s rrna,28.0325555466149,28.0325555466149,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+b02,cal orange 560,iac,unkn,foa,2021-07-13,16s rrna,28.3182261182312,28.3182261182312,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,weekly
+b03,cal orange 560,iac,unkn,fog,2021-07-20,16s rrna,29.2111772123009,29.2111772123009,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,grab,weekly
+c01,cal orange 560,iac,unkn,fib,2021-06-29,16s rrna,28.3954130468096,28.3954130468096,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,bi-weekly
+c02,cal orange 560,iac,unkn,fig,2021-07-13,16s rrna,30.2306264037949,30.2306264037949,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,grab,weekly
+c03,cal orange 560,iac,unkn,fia,2021-07-27,16s rrna,29.8071989073633,29.8071989073633,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+d01,cal orange 560,iac,unkn,fob,2021-06-29,16s rrna,28.1877728618,28.1877728618,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,bi-weekly
+d02,cal orange 560,iac,unkn,fog,2021-07-13,16s rrna,30.1850500176869,30.1850500176869,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,grab,weekly
+d03,cal orange 560,iac,unkn,foa,2021-07-27,16s rrna,28.8480378542216,28.8480378542216,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,weekly
+e01,cal orange 560,iac,unkn,fia,2021-07-06,16s rrna,27.4413495096517,27.4413495096517,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+e02,cal orange 560,iac,unkn,fia,2021-07-20,16s rrna,28.7000455316593,28.7000455316593,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+e03,cal orange 560,iac,unkn,fig,2021-07-27,16s rrna,29.7814386459769,29.7814386459769,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,grab,weekly
+f01,cal orange 560,iac,unkn,fib,2021-07-06,16s rrna,28.3986898718918,28.3986898718918,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,bi-weekly
+f02,cal orange 560,iac,unkn,fib,2021-07-20,16s rrna,28.5183193280368,28.5183193280368,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,bi-weekly
+f03,cal orange 560,iac,unkn,fog,2021-07-27,16s rrna,29.4024623963078,29.4024623963078,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,grab,weekly
+g01,cal orange 560,iac,unkn,foa,2021-07-06,16s rrna,28.0800572491878,28.0800572491878,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,weekly
+g02,cal orange 560,iac,unkn,foa,2021-07-20,16s rrna,29.0323633844365,29.0323633844365,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,weekly
+g03,cal orange 560,iac,unkn,fia,2021-08-03,16s rrna,28.541203927537,28.541203927537,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+h01,cal orange 560,iac,unkn,fob,2021-07-06,16s rrna,27.1123656022563,27.1123656022563,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,bi-weekly
+h02,cal orange 560,iac,unkn,fob,2021-07-20,16s rrna,27.4914130865888,27.4914130865888,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,bi-weekly
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,31.4172141103879,31.4172141103879,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,24.4655458837374,24.4655458837374,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,NA,NA,NA
+a02,fam,total_cyano,unkn,fia,2021-07-13,16s rrna,21.0709249805411,21.0709249805411,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+a03,fam,total_cyano,unkn,fig,2021-07-20,16s rrna,22.2803073114274,22.2803073114274,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,grab,weekly
+b01,fam,total_cyano,unkn,fia,2021-06-29,16s rrna,24.7446564807006,24.7446564807006,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+b02,fam,total_cyano,unkn,foa,2021-07-13,16s rrna,21.5450045787461,21.5450045787461,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,weekly
+b03,fam,total_cyano,unkn,fog,2021-07-20,16s rrna,22.6588131392341,22.6588131392341,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,grab,weekly
+c01,fam,total_cyano,unkn,fib,2021-06-29,16s rrna,24.2935601333796,24.2935601333796,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,bi-weekly
+c02,fam,total_cyano,unkn,fig,2021-07-13,16s rrna,21.8361039432396,21.8361039432396,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,grab,weekly
+c03,fam,total_cyano,unkn,fia,2021-07-27,16s rrna,22.5956456340402,22.5956456340402,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+d01,fam,total_cyano,unkn,fob,2021-06-29,16s rrna,23.6408624373127,23.6408624373127,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,bi-weekly
+d02,fam,total_cyano,unkn,fog,2021-07-13,16s rrna,22.150625887447,22.150625887447,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,grab,weekly
+d03,fam,total_cyano,unkn,foa,2021-07-27,16s rrna,21.4099706912332,21.4099706912332,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,weekly
+e01,fam,total_cyano,unkn,fia,2021-07-06,16s rrna,21.2789030758373,21.2789030758373,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+e02,fam,total_cyano,unkn,fia,2021-07-20,16s rrna,22.2379456970945,22.2379456970945,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+e03,fam,total_cyano,unkn,fig,2021-07-27,16s rrna,21.7289311998261,21.7289311998261,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,grab,weekly
+f01,fam,total_cyano,unkn,fib,2021-07-06,16s rrna,21.5073717190476,21.5073717190476,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,bi-weekly
+f02,fam,total_cyano,unkn,fib,2021-07-20,16s rrna,22.4521369211095,22.4521369211095,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,bi-weekly
+f03,fam,total_cyano,unkn,fog,2021-07-27,16s rrna,21.562898651334,21.562898651334,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,grab,weekly
+g01,fam,total_cyano,unkn,foa,2021-07-06,16s rrna,23.3337973842018,23.3337973842018,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,weekly
+g02,fam,total_cyano,unkn,foa,2021-07-20,16s rrna,21.05844477439,21.05844477439,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,weekly
+g03,fam,total_cyano,unkn,fia,2021-08-03,16s rrna,22.9554452703966,22.9554452703966,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,inlet,passive,weekly
+h01,fam,total_cyano,unkn,fob,2021-07-06,16s rrna,23.285400316054,23.285400316054,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,bi-weekly
+h02,fam,total_cyano,unkn,fob,2021-07-20,16s rrna,19.8319758089334,19.8319758089334,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,outlet,passive,bi-weekly
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_ju29-au3_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,31.5767357097581,31.5767357097581,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,NA,NA,NA
+a11,cal orange 560,iac,unkn,m1,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+a12,cal orange 560,iac,unkn,m2,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+b11,cal orange 560,iac,unkn,m1,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+b12,cal orange 560,iac,unkn,m2,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+c01,cal orange 560,iac,unkn,cp,2021-09-29,16s rrna,30.7196819164084,30.7196819164084,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+c02,cal orange 560,iac,unkn,cp,2021-10-07,16s rrna,30.4936531594219,30.4936531594219,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+c11,cal orange 560,iac,unkn,m1,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+c12,cal orange 560,iac,unkn,m2,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+d01,cal orange 560,iac,unkn,fig,2021-10-12,16s rrna,30.7578618608913,30.7578618608913,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,inlet,grab,weekly
+d02,cal orange 560,iac,unkn,fog,2021-10-19,16s rrna,31.1181051043497,31.1181051043497,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,outlet,grab,weekly
+d11,cal orange 560,iac,unkn,m1,NA,16s rrna,30.1852569985437,30.1852569985437,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+d12,cal orange 560,iac,unkn,m2,NA,16s rrna,30.4252382276639,30.4252382276639,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+e01,cal orange 560,iac,unkn,fog,2021-10-12,16s rrna,31.0322109491597,31.0322109491597,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,outlet,grab,weekly
+e02,cal orange 560,iac,unkn,cp,2021-09-02,16s rrna,30.7696466073424,30.7696466073424,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+e11,cal orange 560,iac,unkn,m1,NA,16s rrna,30.2074351541772,30.2074351541772,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+e12,cal orange 560,iac,unkn,m2,NA,16s rrna,30.5105068168358,30.5105068168358,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+f01,cal orange 560,iac,unkn,fia,2021-10-19,16s rrna,29.6177497321982,29.6177497321982,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,inlet,passive,weekly
+f02,cal orange 560,iac,unkn,cp,2021-09-09,16s rrna,31.0477335451779,31.0477335451779,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+g01,cal orange 560,iac,unkn,foa,2021-10-19,16s rrna,30.287500168196,30.287500168196,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,outlet,passive,weekly
+g02,cal orange 560,iac,unkn,cp,2021-09-16,16s rrna,30.6418246067262,30.6418246067262,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+h01,cal orange 560,iac,unkn,fig,2021-10-19,16s rrna,30.8953774890969,30.8953774890969,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,inlet,grab,weekly
+h02,cal orange 560,iac,unkn,cp,2021-09-23,16s rrna,30.2377914564141,30.2377914564141,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+h08,cal orange 560,iac,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,25.6984282901823,25.6984282901823,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,NA,NA,NA
+a11,fam,total_cyano,unkn,m1,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+a12,fam,total_cyano,unkn,m2,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+b11,fam,total_cyano,unkn,m1,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+b12,fam,total_cyano,unkn,m2,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+c01,fam,total_cyano,unkn,cp,2021-09-29,16s rrna,22.5201363518123,22.5201363518123,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+c02,fam,total_cyano,unkn,cp,2021-10-07,16s rrna,21.8253559128802,21.8253559128802,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+c11,fam,total_cyano,unkn,m1,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+c12,fam,total_cyano,unkn,m2,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+d01,fam,total_cyano,unkn,fig,2021-10-12,16s rrna,21.2440581082392,21.2440581082392,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,inlet,grab,weekly
+d02,fam,total_cyano,unkn,fog,2021-10-19,16s rrna,22.7571156463571,22.7571156463571,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,outlet,grab,weekly
+d11,fam,total_cyano,unkn,m1,NA,16s rrna,20.580871255653,20.580871255653,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+d12,fam,total_cyano,unkn,m2,NA,16s rrna,16.978082729607,16.978082729607,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+e01,fam,total_cyano,unkn,fog,2021-10-12,16s rrna,22.2961334164638,22.2961334164638,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,outlet,grab,weekly
+e02,fam,total_cyano,unkn,cp,2021-09-02,16s rrna,24.1344422686577,24.1344422686577,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+e11,fam,total_cyano,unkn,m1,NA,16s rrna,23.3592200098561,23.3592200098561,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m1,NA,NA
+e12,fam,total_cyano,unkn,m2,NA,16s rrna,21.8660708341045,21.8660708341045,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,m2,NA,NA
+f01,fam,total_cyano,unkn,fia,2021-10-19,16s rrna,22.7279736723389,22.7279736723389,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,inlet,passive,weekly
+f02,fam,total_cyano,unkn,cp,2021-09-09,16s rrna,24.1665551498487,24.1665551498487,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+g01,fam,total_cyano,unkn,foa,2021-10-19,16s rrna,23.5689912441682,23.5689912441682,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,outlet,passive,weekly
+g02,fam,total_cyano,unkn,cp,2021-09-16,16s rrna,21.2853933388318,21.2853933388318,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+h01,fam,total_cyano,unkn,fig,2021-10-19,16s rrna,21.8376030372971,21.8376030372971,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,inlet,grab,weekly
+h02,fam,total_cyano,unkn,cp,2021-09-23,16s rrna,23.7963473462677,23.7963473462677,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,intake,passive,weekly
+h08,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_oc12-19_cp_16s_au-se_monc_16s_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,31.1388250539053,31.1388250539053,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,NA,NA,NA
+a02,cal orange 560,iac,unkn,fib,2021-09-28,16s rrna,29.0935881129643,29.0935881129643,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,bi-weekly
+a09,cal orange 560,iac,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,NA,NA,NA
+b01,cal orange 560,iac,unkn,fia,2021-09-21,16s rrna,30.1424462138849,30.1424462138849,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,weekly
+b02,cal orange 560,iac,unkn,fig,2021-09-28,16s rrna,30.3702763196157,30.3702763196157,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,grab,weekly
+c01,cal orange 560,iac,unkn,foa,2021-09-21,16s rrna,29.9249633831697,29.9249633831697,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,passive,weekly
+c02,cal orange 560,iac,unkn,fog,2021-09-28,16s rrna,30.2040274902038,30.2040274902038,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,grab,weekly
+d01,cal orange 560,iac,unkn,fig,2021-09-21,16s rrna,31.0949285270185,31.0949285270185,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,grab,weekly
+d02,cal orange 560,iac,unkn,fia,2021-10-05,16s rrna,29.5917431470733,29.5917431470733,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,weekly
+e01,cal orange 560,iac,unkn,fog,2021-09-21,16s rrna,30.4790461432208,30.4790461432208,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,grab,weekly
+e02,cal orange 560,iac,unkn,foa,2021-10-05,16s rrna,29.8101098364312,29.8101098364312,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,passive,weekly
+f01,cal orange 560,iac,unkn,wfc,2021-09-20,16s rrna,30.972169102612,30.972169102612,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,wfc,NA,NA
+f02,cal orange 560,iac,unkn,fig,2021-10-05,16s rrna,30.5113634235989,30.5113634235989,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,grab,weekly
+f12,cal orange 560,iac,unkn,fib,2021-10-12,16s rrna,29.2107270791654,29.2107270791654,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,bi-weekly
+g01,cal orange 560,iac,unkn,wfg,2021-09-20,16s rrna,30.4711766985154,30.4711766985154,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,wfg,grab,weekly
+g02,cal orange 560,iac,unkn,fog,2021-10-05,16s rrna,30.0969707276419,30.0969707276419,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,grab,weekly
+g12,cal orange 560,iac,unkn,foa,2021-10-12,16s rrna,30.1176036937247,30.1176036937247,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,passive,weekly
+h01,cal orange 560,iac,unkn,fia,2021-09-28,16s rrna,30.1392009491674,30.1392009491674,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,weekly
+h02,cal orange 560,iac,unkn,fia,2021-10-12,16s rrna,29.5555951032094,29.5555951032094,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,weekly
+h12,cal orange 560,iac,unkn,fob,2021-10-12,16s rrna,29.8974704629222,29.8974704629222,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,passive,bi-weekly
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,25.172833056691,25.172833056691,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,NA,NA,NA
+a02,fam,total_cyano,unkn,fib,2021-09-28,16s rrna,23.6817445905893,23.6817445905893,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,bi-weekly
+a09,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,NA,NA,NA
+b01,fam,total_cyano,unkn,fia,2021-09-21,16s rrna,24.3988961276216,24.3988961276216,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,weekly
+b02,fam,total_cyano,unkn,fig,2021-09-28,16s rrna,22.0602833409871,22.0602833409871,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,grab,weekly
+c01,fam,total_cyano,unkn,foa,2021-09-21,16s rrna,24.5122050363994,24.5122050363994,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,passive,weekly
+c02,fam,total_cyano,unkn,fog,2021-09-28,16s rrna,21.3854896437047,21.3854896437047,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,grab,weekly
+d01,fam,total_cyano,unkn,fig,2021-09-21,16s rrna,23.2934453663592,23.2934453663592,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,grab,weekly
+d02,fam,total_cyano,unkn,fia,2021-10-05,16s rrna,22.6769912493384,22.6769912493384,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,weekly
+e01,fam,total_cyano,unkn,fog,2021-09-21,16s rrna,22.2617163724264,22.2617163724264,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,grab,weekly
+e02,fam,total_cyano,unkn,foa,2021-10-05,16s rrna,22.46823865792,22.46823865792,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,passive,weekly
+f01,fam,total_cyano,unkn,wfc,2021-09-20,16s rrna,25.752369493036,25.752369493036,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,wfc,NA,NA
+f02,fam,total_cyano,unkn,fig,2021-10-05,16s rrna,22.1461013663734,22.1461013663734,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,grab,weekly
+f12,fam,total_cyano,unkn,fib,2021-10-12,16s rrna,23.641607973261,23.641607973261,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,bi-weekly
+g01,fam,total_cyano,unkn,wfg,2021-09-20,16s rrna,22.9444535272282,22.9444535272282,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,wfg,grab,weekly
+g02,fam,total_cyano,unkn,fog,2021-10-05,16s rrna,22.1306394758463,22.1306394758463,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,grab,weekly
+g12,fam,total_cyano,unkn,foa,2021-10-12,16s rrna,24.1935466381298,24.1935466381298,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,passive,weekly
+h01,fam,total_cyano,unkn,fia,2021-09-28,16s rrna,23.8539033120991,23.8539033120991,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,weekly
+h02,fam,total_cyano,unkn,fia,2021-10-12,16s rrna,22.5961189096757,22.5961189096757,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,inlet,passive,weekly
+h12,fam,total_cyano,unkn,fob,2021-10-12,16s rrna,23.9588876827885,23.9588876827885,0,NA,NA,NA,0,60,NA,cyanodtec_fl_16s_se21-oc12_ts_results,outlet,passive,bi-weekly
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,32.1055506314904,32.1055506314904,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+a05,cal orange 560,iac,ntc,NA,NA,16s rrna,32.1976759413861,32.1976759413861,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+a09,cal orange 560,cyra,unkn,fia,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,passive,weekly
+a10,cal orange 560,cyra,unkn,wfc,2021-09-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfc,NA,NA
+a11,cal orange 560,cyra,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+b09,cal orange 560,cyra,unkn,foa,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,passive,weekly
+b10,cal orange 560,cyra,unkn,wfg,2021-09-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfg,grab,weekly
+b11,cal orange 560,cyra,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+c09,cal orange 560,cyra,unkn,fig,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,grab,weekly
+c10,cal orange 560,cyra,unkn,cp,2021-09-02,toxins,39.8237607133285,39.8237607133285,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+c11,cal orange 560,cyra,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+d02,cal orange 560,iac,unkn,wl,NA,16s rrna,32.2624503920013,32.2624503920013,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+d03,cal orange 560,iac,unkn,cl,NA,16s rrna,31.7172553174689,31.7172553174689,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+d09,cal orange 560,cyra,unkn,fog,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,grab,weekly
+d10,cal orange 560,cyra,unkn,cp,2021-09-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+d11,cal orange 560,cyra,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+e01,cal orange 560,iac,unkn,fia,2021-09-21,16s rrna,31.2461295953477,31.2461295953477,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,passive,weekly
+e02,cal orange 560,iac,unkn,wl,NA,16s rrna,31.4801652180439,31.4801652180439,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+e03,cal orange 560,iac,unkn,cl,NA,16s rrna,32.2299165186449,32.2299165186449,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+e04,cal orange 560,iac,unkn,wfc,2021-09-20,16s rrna,31.5645318811257,31.5645318811257,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfc,NA,NA
+e10,cal orange 560,cyra,unkn,cp,2021-09-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+e11,cal orange 560,cyra,unkn,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+f01,cal orange 560,iac,unkn,foa,2021-09-21,16s rrna,31.0235450277885,31.0235450277885,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,passive,weekly
+f02,cal orange 560,iac,unkn,wl,NA,16s rrna,32.4644033032691,32.4644033032691,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+f03,cal orange 560,iac,unkn,cl,NA,16s rrna,32.2017047792929,32.2017047792929,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+f04,cal orange 560,iac,unkn,wfg,2021-09-20,16s rrna,31.641553862031,31.641553862031,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfg,grab,weekly
+g01,cal orange 560,iac,unkn,fig,2021-09-21,16s rrna,31.7160883898298,31.7160883898298,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,grab,weekly
+g02,cal orange 560,iac,unkn,wl,NA,16s rrna,32.4484161704738,32.4484161704738,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+g03,cal orange 560,iac,unkn,cl,NA,16s rrna,32.0815570524121,32.0815570524121,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+g04,cal orange 560,iac,unkn,cp,2021-09-02,16s rrna,31.587534181352,31.587534181352,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+h01,cal orange 560,iac,unkn,fog,2021-09-21,16s rrna,31.1419036165113,31.1419036165113,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,grab,weekly
+h02,cal orange 560,iac,unkn,wl,NA,16s rrna,32.0070353511127,32.0070353511127,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+h03,cal orange 560,iac,unkn,cl,NA,16s rrna,32.050230293983,32.050230293983,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+h04,cal orange 560,iac,unkn,cp,2021-09-09,16s rrna,31.6391210272986,31.6391210272986,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+h07,cal orange 560,cyra,pos ctrl,NA,NA,toxins,26.3951711821551,26.3951711821551,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+a09,cal red 610,sxta,unkn,fia,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,passive,weekly
+a10,cal red 610,sxta,unkn,wfc,2021-09-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfc,NA,NA
+a11,cal red 610,sxta,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+b09,cal red 610,sxta,unkn,foa,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,passive,weekly
+b10,cal red 610,sxta,unkn,wfg,2021-09-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfg,grab,weekly
+b11,cal red 610,sxta,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+c09,cal red 610,sxta,unkn,fig,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,grab,weekly
+c10,cal red 610,sxta,unkn,cp,2021-09-02,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+c11,cal red 610,sxta,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+d09,cal red 610,sxta,unkn,fog,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,grab,weekly
+d10,cal red 610,sxta,unkn,cp,2021-09-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+d11,cal red 610,sxta,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+e10,cal red 610,sxta,unkn,cp,2021-09-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+e11,cal red 610,sxta,unkn,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+h07,cal red 610,sxta,pos ctrl,NA,NA,toxins,28.3771324289063,28.3771324289063,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,26.1505679552872,26.1505679552872,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+a05,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+a09,fam,mcye_ndaf,unkn,fia,2021-09-21,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,passive,weekly
+a10,fam,mcye_ndaf,unkn,wfc,2021-09-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfc,NA,NA
+a11,fam,mcye_ndaf,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+b09,fam,mcye_ndaf,unkn,foa,2021-09-21,toxins,34.6216904330576,34.6216904330576,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,passive,weekly
+b10,fam,mcye_ndaf,unkn,wfg,2021-09-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfg,grab,weekly
+b11,fam,mcye_ndaf,unkn,wl,NA,toxins,33.4762916873247,33.4762916873247,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+c09,fam,mcye_ndaf,unkn,fig,2021-09-21,toxins,31.7898602603022,31.7898602603022,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,grab,weekly
+c10,fam,mcye_ndaf,unkn,cp,2021-09-02,toxins,30.1141274698016,30.1141274698016,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+c11,fam,mcye_ndaf,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+d02,fam,total_cyano,unkn,wl,NA,16s rrna,29.2810061885299,29.2810061885299,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+d03,fam,total_cyano,unkn,cl,NA,16s rrna,21.7079641657374,21.7079641657374,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+d09,fam,mcye_ndaf,unkn,fog,2021-09-21,toxins,29.3396445785832,29.3396445785832,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,grab,weekly
+d10,fam,mcye_ndaf,unkn,cp,2021-09-09,toxins,29.9617307821368,29.9617307821368,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+d11,fam,mcye_ndaf,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+e01,fam,total_cyano,unkn,fia,2021-09-21,16s rrna,24.0033587004949,24.0033587004949,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,passive,weekly
+e02,fam,total_cyano,unkn,wl,NA,16s rrna,22.3002192212041,22.3002192212041,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+e03,fam,total_cyano,unkn,cl,NA,16s rrna,27.6788115829963,27.6788115829963,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+e04,fam,total_cyano,unkn,wfc,2021-09-20,16s rrna,25.2144467796728,25.2144467796728,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfc,NA,NA
+e10,fam,mcye_ndaf,unkn,cp,2021-09-16,toxins,26.6042338268035,26.6042338268035,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+e11,fam,mcye_ndaf,unkn,NA,NA,toxins,36.0874009587616,36.0874009587616,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+f01,fam,total_cyano,unkn,foa,2021-09-21,16s rrna,24.0173938965125,24.0173938965125,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,passive,weekly
+f02,fam,total_cyano,unkn,wl,NA,16s rrna,29.4070710035276,29.4070710035276,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+f03,fam,total_cyano,unkn,cl,NA,16s rrna,24.4945218843539,24.4945218843539,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+f04,fam,total_cyano,unkn,wfg,2021-09-20,16s rrna,22.4603646797595,22.4603646797595,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wfg,grab,weekly
+g01,fam,total_cyano,unkn,fig,2021-09-21,16s rrna,22.7624142021977,22.7624142021977,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,inlet,grab,weekly
+g02,fam,total_cyano,unkn,wl,NA,16s rrna,34.173776472418,34.173776472418,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+g03,fam,total_cyano,unkn,cl,NA,16s rrna,31.8852505254895,31.8852505254895,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+g04,fam,total_cyano,unkn,cp,2021-09-02,16s rrna,23.7028433781497,23.7028433781497,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+h01,fam,total_cyano,unkn,fog,2021-09-21,16s rrna,21.8430217685942,21.8430217685942,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,outlet,grab,weekly
+h02,fam,total_cyano,unkn,wl,NA,16s rrna,26.9304562196497,26.9304562196497,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,wl,NA,NA
+h03,fam,total_cyano,unkn,cl,NA,16s rrna,25.2806736399863,25.2806736399863,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,cl,NA,NA
+h04,fam,total_cyano,unkn,cp,2021-09-09,16s rrna,23.7025071013731,23.7025071013731,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,intake,passive,weekly
+h07,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,27.6387540124114,27.6387540124114,0,NA,NA,NA,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_adsorption_16s_toxins_au-se_ts_results,NA,NA,NA
+a01,cal orange 560,cyra,pos ctrl,NA,NA,toxins,24.133075660877,24.133075660877,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,NA,NA,NA
+a04,cal orange 560,cyra,unkn,fig,2021-08-10,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+a05,cal orange 560,cyra,unkn,fob,2021-08-24,toxins,37.0141028083389,37.0141028083389,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+b03,cal orange 560,cyra,unkn,fib,2021-08-03,toxins,35.7673898975682,35.7673898975682,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+b04,cal orange 560,cyra,unkn,fog,2021-08-10,toxins,33.6631028495045,33.6631028495045,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+b05,cal orange 560,cyra,unkn,fig,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+c03,cal orange 560,cyra,unkn,foa,2021-08-03,toxins,31.9167514913348,31.9167514913348,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+c04,cal orange 560,cyra,unkn,fia,2021-08-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+c05,cal orange 560,cyra,unkn,fog,2021-08-24,toxins,39.0916861495198,39.0916861495198,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+d03,cal orange 560,cyra,unkn,fob,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+d04,cal orange 560,cyra,unkn,fib,2021-08-17,toxins,30.4892531419556,30.4892531419556,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+d05,cal orange 560,cyra,unkn,fia,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+e03,cal orange 560,cyra,unkn,fig,2021-08-03,toxins,36.630704058057,36.630704058057,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+e04,cal orange 560,cyra,unkn,fig,2021-08-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+e05,cal orange 560,cyra,unkn,fib,2021-08-31,toxins,31.4053197807793,31.4053197807793,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+f03,cal orange 560,cyra,unkn,fog,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+f04,cal orange 560,cyra,unkn,fog,2021-08-17,toxins,38.8471899320957,38.8471899320957,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+f05,cal orange 560,cyra,unkn,foa,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+g03,cal orange 560,cyra,unkn,fia,2021-08-10,toxins,33.4237950583116,33.4237950583116,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+g04,cal orange 560,cyra,unkn,fia,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+g05,cal orange 560,cyra,unkn,fob,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+h03,cal orange 560,cyra,unkn,foa,2021-08-10,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+h04,cal orange 560,cyra,unkn,foa,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,NA,NA,NA
+a01,cal red 610,sxta,pos ctrl,NA,NA,toxins,25.3209330990682,25.3209330990682,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,NA,NA,NA
+a04,cal red 610,sxta,unkn,fig,2021-08-10,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+a05,cal red 610,sxta,unkn,fob,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+b03,cal red 610,sxta,unkn,fib,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+b04,cal red 610,sxta,unkn,fog,2021-08-10,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+b05,cal red 610,sxta,unkn,fig,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+c03,cal red 610,sxta,unkn,foa,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+c04,cal red 610,sxta,unkn,fia,2021-08-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+c05,cal red 610,sxta,unkn,fog,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+d03,cal red 610,sxta,unkn,fob,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+d04,cal red 610,sxta,unkn,fib,2021-08-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+d05,cal red 610,sxta,unkn,fia,2021-08-31,toxins,36.9716284107527,36.9716284107527,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+e03,cal red 610,sxta,unkn,fig,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+e04,cal red 610,sxta,unkn,fig,2021-08-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+e05,cal red 610,sxta,unkn,fib,2021-08-31,toxins,32.1753272262467,32.1753272262467,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+f03,cal red 610,sxta,unkn,fog,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+f04,cal red 610,sxta,unkn,fog,2021-08-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+f05,cal red 610,sxta,unkn,foa,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+g03,cal red 610,sxta,unkn,fia,2021-08-10,toxins,33.6938470368867,33.6938470368867,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+g04,cal red 610,sxta,unkn,fia,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+g05,cal red 610,sxta,unkn,fob,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+h03,cal red 610,sxta,unkn,foa,2021-08-10,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+h04,cal red 610,sxta,unkn,foa,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,NA,NA,NA
+a01,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,25.4611669023014,25.4611669023014,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,NA,NA,NA
+a04,fam,mcye_ndaf,unkn,fig,2021-08-10,toxins,30.4181376073717,30.4181376073717,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+a05,fam,mcye_ndaf,unkn,fob,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+b03,fam,mcye_ndaf,unkn,fib,2021-08-03,toxins,36.9249643911591,36.9249643911591,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+b04,fam,mcye_ndaf,unkn,fog,2021-08-10,toxins,28.1328303640948,28.1328303640948,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+b05,fam,mcye_ndaf,unkn,fig,2021-08-24,toxins,29.6429489111674,29.6429489111674,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+c03,fam,mcye_ndaf,unkn,foa,2021-08-03,toxins,36.8545651301442,36.8545651301442,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+c04,fam,mcye_ndaf,unkn,fia,2021-08-17,toxins,33.092150007744,33.092150007744,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+c05,fam,mcye_ndaf,unkn,fog,2021-08-24,toxins,28.4681197465744,28.4681197465744,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+d03,fam,mcye_ndaf,unkn,fob,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+d04,fam,mcye_ndaf,unkn,fib,2021-08-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+d05,fam,mcye_ndaf,unkn,fia,2021-08-31,toxins,37.9346531405427,37.9346531405427,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+e03,fam,mcye_ndaf,unkn,fig,2021-08-03,toxins,31.4281944668833,31.4281944668833,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+e04,fam,mcye_ndaf,unkn,fig,2021-08-17,toxins,30.1217338733987,30.1217338733987,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,grab,weekly
+e05,fam,mcye_ndaf,unkn,fib,2021-08-31,toxins,37.0666800790728,37.0666800790728,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,bi-weekly
+f03,fam,mcye_ndaf,unkn,fog,2021-08-03,toxins,29.5775959209688,29.5775959209688,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+f04,fam,mcye_ndaf,unkn,fog,2021-08-17,toxins,28.3168552711622,28.3168552711622,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,grab,weekly
+f05,fam,mcye_ndaf,unkn,foa,2021-08-31,toxins,37.0491240039666,37.0491240039666,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+g03,fam,mcye_ndaf,unkn,fia,2021-08-10,toxins,32.7163120576582,32.7163120576582,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+g04,fam,mcye_ndaf,unkn,fia,2021-08-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,inlet,passive,weekly
+g05,fam,mcye_ndaf,unkn,fob,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,bi-weekly
+h03,fam,mcye_ndaf,unkn,foa,2021-08-10,toxins,37.3545306331553,37.3545306331553,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+h04,fam,mcye_ndaf,unkn,foa,2021-08-24,toxins,38.787901513579,38.787901513579,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,outlet,passive,weekly
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au3-au31_ts_rerun_results,NA,NA,NA
+a01,cal orange 560,cyra,pos ctrl,NA,NA,toxins,24.6505073149364,24.6505073149364,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,NA,NA,NA
+a02,cal orange 560,cyra,unkn,fib,2021-09-14,toxins,30.5061409667771,30.5061409667771,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,bi-weekly
+a03,cal orange 560,cyra,unkn,cp,2021-07-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+b01,cal orange 560,cyra,unkn,fig,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+b02,cal orange 560,cyra,unkn,foa,2021-09-14,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,weekly
+b03,cal orange 560,cyra,unkn,cp,2021-07-22,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+c01,cal orange 560,cyra,unkn,fog,2021-08-31,toxins,36.3049438007568,36.3049438007568,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+c02,cal orange 560,cyra,unkn,fob,2021-09-14,toxins,37.3619250537499,37.3619250537499,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,bi-weekly
+c03,cal orange 560,cyra,unkn,cp,2021-07-28,toxins,34.813341926281,34.813341926281,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+d01,cal orange 560,cyra,unkn,fia,2021-09-07,toxins,31.2046303491445,31.2046303491445,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,weekly
+d02,cal orange 560,cyra,unkn,fig,2021-09-14,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+d03,cal orange 560,cyra,unkn,cp,2021-08-05,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+e01,cal orange 560,cyra,unkn,foa,2021-09-07,toxins,32.0302130098494,32.0302130098494,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,weekly
+e02,cal orange 560,cyra,unkn,fog,2021-09-14,toxins,37.207177066305,37.207177066305,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+e03,cal orange 560,cyra,unkn,cp,2021-08-12,toxins,36.7444023491195,36.7444023491195,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+f01,cal orange 560,cyra,unkn,fig,2021-09-07,toxins,34.7945051417173,34.7945051417173,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+f02,cal orange 560,cyra,unkn,cp,2021-06-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+g01,cal orange 560,cyra,unkn,fog,2021-09-07,toxins,39.6262491628047,39.6262491628047,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+g02,cal orange 560,cyra,unkn,cp,2021-06-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+h01,cal orange 560,cyra,unkn,fia,2021-09-14,toxins,34.3337392850434,34.3337392850434,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,weekly
+h02,cal orange 560,cyra,unkn,cp,2021-07-08,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,NA,NA,NA
+a01,cal red 610,sxta,pos ctrl,NA,NA,toxins,27.2957688408461,27.2957688408461,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,NA,NA,NA
+a02,cal red 610,sxta,unkn,fib,2021-09-14,toxins,31.7802850019486,31.7802850019486,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,bi-weekly
+a03,cal red 610,sxta,unkn,cp,2021-07-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+b01,cal red 610,sxta,unkn,fig,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+b02,cal red 610,sxta,unkn,foa,2021-09-14,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,weekly
+b03,cal red 610,sxta,unkn,cp,2021-07-22,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+c01,cal red 610,sxta,unkn,fog,2021-08-31,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+c02,cal red 610,sxta,unkn,fob,2021-09-14,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,bi-weekly
+c03,cal red 610,sxta,unkn,cp,2021-07-28,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+d01,cal red 610,sxta,unkn,fia,2021-09-07,toxins,31.4795682073469,31.4795682073469,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,weekly
+d02,cal red 610,sxta,unkn,fig,2021-09-14,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+d03,cal red 610,sxta,unkn,cp,2021-08-05,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+e01,cal red 610,sxta,unkn,foa,2021-09-07,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,weekly
+e02,cal red 610,sxta,unkn,fog,2021-09-14,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+e03,cal red 610,sxta,unkn,cp,2021-08-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+f01,cal red 610,sxta,unkn,fig,2021-09-07,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+f02,cal red 610,sxta,unkn,cp,2021-06-24,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+g01,cal red 610,sxta,unkn,fog,2021-09-07,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+g02,cal red 610,sxta,unkn,cp,2021-06-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+h01,cal red 610,sxta,unkn,fia,2021-09-14,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,weekly
+h02,cal red 610,sxta,unkn,cp,2021-07-08,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,NA,NA,NA
+a01,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,23.1944389813075,23.1944389813075,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,NA,NA,NA
+a02,fam,mcye_ndaf,unkn,fib,2021-09-14,toxins,31.0524244732569,31.0524244732569,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,bi-weekly
+a03,fam,mcye_ndaf,unkn,cp,2021-07-15,toxins,30.1803196782843,30.1803196782843,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+b01,fam,mcye_ndaf,unkn,fig,2021-08-31,toxins,27.2411921213258,27.2411921213258,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+b02,fam,mcye_ndaf,unkn,foa,2021-09-14,toxins,29.9035052337847,29.9035052337847,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,weekly
+b03,fam,mcye_ndaf,unkn,cp,2021-07-22,toxins,31.8438214636864,31.8438214636864,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+c01,fam,mcye_ndaf,unkn,fog,2021-08-31,toxins,24.8436908964488,24.8436908964488,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+c02,fam,mcye_ndaf,unkn,fob,2021-09-14,toxins,31.2564899459842,31.2564899459842,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,bi-weekly
+c03,fam,mcye_ndaf,unkn,cp,2021-07-28,toxins,27.035326933658,27.035326933658,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+d01,fam,mcye_ndaf,unkn,fia,2021-09-07,toxins,32.207233101647,32.207233101647,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,weekly
+d02,fam,mcye_ndaf,unkn,fig,2021-09-14,toxins,27.1214155694065,27.1214155694065,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+d03,fam,mcye_ndaf,unkn,cp,2021-08-05,toxins,27.6053619323488,27.6053619323488,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+e01,fam,mcye_ndaf,unkn,foa,2021-09-07,toxins,29.0769306747271,29.0769306747271,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,passive,weekly
+e02,fam,mcye_ndaf,unkn,fog,2021-09-14,toxins,24.4575915631418,24.4575915631418,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+e03,fam,mcye_ndaf,unkn,cp,2021-08-12,toxins,25.9495362383882,25.9495362383882,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+f01,fam,mcye_ndaf,unkn,fig,2021-09-07,toxins,26.6713199906589,26.6713199906589,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,grab,weekly
+f02,fam,mcye_ndaf,unkn,cp,2021-06-24,toxins,30.6760865624058,30.6760865624058,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+g01,fam,mcye_ndaf,unkn,fog,2021-09-07,toxins,23.95205939806,23.95205939806,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,outlet,grab,weekly
+g02,fam,mcye_ndaf,unkn,cp,2021-06-30,toxins,34.545396027451,34.545396027451,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+h01,fam,mcye_ndaf,unkn,fia,2021-09-14,toxins,37.1137401975922,37.1137401975922,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,inlet,passive,weekly
+h02,fam,mcye_ndaf,unkn,cp,2021-07-08,toxins,32.1134672968448,32.1134672968448,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,intake,passive,weekly
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_au31-se14_cp_toxins_ju24-au12_ts_results,NA,NA,NA
+a01,cal orange 560,cyra,pos ctrl,NA,NA,toxins,19.9592470352267,19.9592470352267,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,NA,NA,NA
+a02,cal orange 560,cyra,unkn,foa2,2021-06-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+a03,cal orange 560,cyra,unkn,fob2,2021-06-17,toxins,35.4392404372057,35.4392404372057,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+b01,cal orange 560,cyra,unkn,fia1,2021-06-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+b02,cal orange 560,cyra,unkn,fia1,2021-06-17,toxins,37.398561473922,37.398561473922,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+b03,cal orange 560,cyra,unkn,fia,2021-06-22,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c01,cal orange 560,cyra,unkn,fia2,2021-06-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c02,cal orange 560,cyra,unkn,fia2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c03,cal orange 560,cyra,unkn,foa,2021-06-22,toxins,34.0498488276836,34.0498488276836,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+d01,cal orange 560,cyra,unkn,foa1,2021-06-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+d02,cal orange 560,cyra,unkn,fib1,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+d03,cal orange 560,cyra,unkn,fia,2021-06-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+e01,cal orange 560,cyra,unkn,foa2,2021-06-12,toxins,39.3947765055394,39.3947765055394,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+e02,cal orange 560,cyra,unkn,fib2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+e03,cal orange 560,cyra,unkn,fib,2021-06-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+f01,cal orange 560,cyra,unkn,fia1,2021-06-15,toxins,34.790908367515,34.790908367515,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+f02,cal orange 560,cyra,unkn,foa1,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+f03,cal orange 560,cyra,unkn,foa,2021-06-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+g01,cal orange 560,cyra,unkn,fia2,2021-06-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+g02,cal orange 560,cyra,unkn,foa2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+g03,cal orange 560,cyra,unkn,fob,2021-06-25,toxins,33.8280127692817,33.8280127692817,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h01,cal orange 560,cyra,unkn,foa1,2021-06-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+h02,cal orange 560,cyra,unkn,fob1,2021-06-17,toxins,34.0217582950954,34.0217582950954,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,NA,NA,NA
+a01,cal red 610,sxta,pos ctrl,NA,NA,toxins,19.1715998900339,19.1715998900339,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,NA,NA,NA
+a02,cal red 610,sxta,unkn,foa2,2021-06-15,toxins,16.4111103554077,16.4111103554077,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+a03,cal red 610,sxta,unkn,fob2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+b01,cal red 610,sxta,unkn,fia1,2021-06-12,toxins,20.3415365988033,20.3415365988033,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+b02,cal red 610,sxta,unkn,fia1,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+b03,cal red 610,sxta,unkn,fia,2021-06-22,toxins,26.103895787571,26.103895787571,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c01,cal red 610,sxta,unkn,fia2,2021-06-12,toxins,33.9261482514968,33.9261482514968,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c02,cal red 610,sxta,unkn,fia2,2021-06-17,toxins,1.95123604995203,1.95123604995203,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c03,cal red 610,sxta,unkn,foa,2021-06-22,toxins,31.4503664499028,31.4503664499028,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+d01,cal red 610,sxta,unkn,foa1,2021-06-12,toxins,36.3266834190358,36.3266834190358,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+d02,cal red 610,sxta,unkn,fib1,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+d03,cal red 610,sxta,unkn,fia,2021-06-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+e01,cal red 610,sxta,unkn,foa2,2021-06-12,toxins,1.81344529739726,1.81344529739726,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+e02,cal red 610,sxta,unkn,fib2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+e03,cal red 610,sxta,unkn,fib,2021-06-25,toxins,39.971284661424,39.971284661424,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+f01,cal red 610,sxta,unkn,fia1,2021-06-15,toxins,1.70071201297199,1.70071201297199,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+f02,cal red 610,sxta,unkn,foa1,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+f03,cal red 610,sxta,unkn,foa,2021-06-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+g01,cal red 610,sxta,unkn,fia2,2021-06-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+g02,cal red 610,sxta,unkn,foa2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+g03,cal red 610,sxta,unkn,fob,2021-06-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h01,cal red 610,sxta,unkn,foa1,2021-06-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+h02,cal red 610,sxta,unkn,fob1,2021-06-17,toxins,26.3606907994027,26.3606907994027,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,NA,NA,NA
+a01,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,19.1238545168481,19.1238545168481,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,NA,NA,NA
+a02,fam,mcye_ndaf,unkn,foa2,2021-06-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+a03,fam,mcye_ndaf,unkn,fob2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+b01,fam,mcye_ndaf,unkn,fia1,2021-06-12,toxins,37.5420884628454,37.5420884628454,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+b02,fam,mcye_ndaf,unkn,fia1,2021-06-17,toxins,21.0080322884929,21.0080322884929,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+b03,fam,mcye_ndaf,unkn,fia,2021-06-22,toxins,36.795569645931,36.795569645931,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c01,fam,mcye_ndaf,unkn,fia2,2021-06-12,toxins,36.9422255956034,36.9422255956034,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c02,fam,mcye_ndaf,unkn,fia2,2021-06-17,toxins,35.0892422192198,35.0892422192198,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+c03,fam,mcye_ndaf,unkn,foa,2021-06-22,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+d01,fam,mcye_ndaf,unkn,foa1,2021-06-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+d02,fam,mcye_ndaf,unkn,fib1,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+d03,fam,mcye_ndaf,unkn,fia,2021-06-25,toxins,33.4677751850051,33.4677751850051,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+e01,fam,mcye_ndaf,unkn,foa2,2021-06-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+e02,fam,mcye_ndaf,unkn,fib2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+e03,fam,mcye_ndaf,unkn,fib,2021-06-25,toxins,37.0859866970692,37.0859866970692,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,bi-weekly
+f01,fam,mcye_ndaf,unkn,fia1,2021-06-15,toxins,33.3588507244441,33.3588507244441,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+f02,fam,mcye_ndaf,unkn,foa1,2021-06-17,toxins,35.2755716203674,35.2755716203674,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+f03,fam,mcye_ndaf,unkn,foa,2021-06-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+g01,fam,mcye_ndaf,unkn,fia2,2021-06-15,toxins,38.0640706266957,38.0640706266957,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,inlet,passive,weekly
+g02,fam,mcye_ndaf,unkn,foa2,2021-06-17,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+g03,fam,mcye_ndaf,unkn,fob,2021-06-25,toxins,15.576206855136,15.576206855136,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h01,fam,mcye_ndaf,unkn,foa1,2021-06-15,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,weekly
+h02,fam,mcye_ndaf,unkn,fob1,2021-06-17,toxins,38.7381278589869,38.7381278589869,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,outlet,passive,bi-weekly
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju12-ju25_ts_results,NA,NA,NA
+a01,cal orange 560,cyra,pos ctrl,NA,NA,toxins,25.2145141242748,25.2145141242748,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,NA,NA,NA
+a04,cal orange 560,cyra,unkn,fia,2021-07-13,toxins,37.0612786423134,37.0612786423134,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+a05,cal orange 560,cyra,unkn,fig,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+b03,cal orange 560,cyra,unkn,fia,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+b04,cal orange 560,cyra,unkn,foa,2021-07-13,toxins,38.939450284419,38.939450284419,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+b05,cal orange 560,cyra,unkn,fog,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+c03,cal orange 560,cyra,unkn,fib,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+c04,cal orange 560,cyra,unkn,fig,2021-07-13,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+c05,cal orange 560,cyra,unkn,fia,2021-07-27,toxins,32.2262743370804,32.2262743370804,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+d03,cal orange 560,cyra,unkn,fob,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+d04,cal orange 560,cyra,unkn,fog,2021-07-13,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+d05,cal orange 560,cyra,unkn,foa,2021-07-27,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+e03,cal orange 560,cyra,unkn,fia,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+e04,cal orange 560,cyra,unkn,fia,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+e05,cal orange 560,cyra,unkn,fig,2021-07-27,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+f03,cal orange 560,cyra,unkn,fib,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+f04,cal orange 560,cyra,unkn,fib,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+f05,cal orange 560,cyra,unkn,fog,2021-07-27,toxins,36.6873399066032,36.6873399066032,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+g03,cal orange 560,cyra,unkn,foa,2021-07-06,toxins,34.6769333088997,34.6769333088997,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+g04,cal orange 560,cyra,unkn,foa,2021-07-20,toxins,35.4843316702001,35.4843316702001,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+g05,cal orange 560,cyra,unkn,fia,2021-08-03,toxins,31.3746708234012,31.3746708234012,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+h03,cal orange 560,cyra,unkn,fob,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+h04,cal orange 560,cyra,unkn,fob,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,NA,NA,NA
+a01,cal red 610,sxta,pos ctrl,NA,NA,toxins,25.6954434268011,25.6954434268011,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,NA,NA,NA
+a04,cal red 610,sxta,unkn,fia,2021-07-13,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+a05,cal red 610,sxta,unkn,fig,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+b03,cal red 610,sxta,unkn,fia,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+b04,cal red 610,sxta,unkn,foa,2021-07-13,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+b05,cal red 610,sxta,unkn,fog,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+c03,cal red 610,sxta,unkn,fib,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+c04,cal red 610,sxta,unkn,fig,2021-07-13,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+c05,cal red 610,sxta,unkn,fia,2021-07-27,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+d03,cal red 610,sxta,unkn,fob,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+d04,cal red 610,sxta,unkn,fog,2021-07-13,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+d05,cal red 610,sxta,unkn,foa,2021-07-27,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+e03,cal red 610,sxta,unkn,fia,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+e04,cal red 610,sxta,unkn,fia,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+e05,cal red 610,sxta,unkn,fig,2021-07-27,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+f03,cal red 610,sxta,unkn,fib,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+f04,cal red 610,sxta,unkn,fib,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+f05,cal red 610,sxta,unkn,fog,2021-07-27,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+g03,cal red 610,sxta,unkn,foa,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+g04,cal red 610,sxta,unkn,foa,2021-07-20,toxins,38.1431263004355,38.1431263004355,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+g05,cal red 610,sxta,unkn,fia,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+h03,cal red 610,sxta,unkn,fob,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+h04,cal red 610,sxta,unkn,fob,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,NA,NA,NA
+a01,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,25.7311727450261,25.7311727450261,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,NA,NA,NA
+a04,fam,mcye_ndaf,unkn,fia,2021-07-13,toxins,14.5195107444113,14.5195107444113,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+a05,fam,mcye_ndaf,unkn,fig,2021-07-20,toxins,33.299928295416,33.299928295416,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+b03,fam,mcye_ndaf,unkn,fia,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+b04,fam,mcye_ndaf,unkn,foa,2021-07-13,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+b05,fam,mcye_ndaf,unkn,fog,2021-07-20,toxins,32.8146840100847,32.8146840100847,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+c03,fam,mcye_ndaf,unkn,fib,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+c04,fam,mcye_ndaf,unkn,fig,2021-07-13,toxins,32.657022325333,32.657022325333,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+c05,fam,mcye_ndaf,unkn,fia,2021-07-27,toxins,35.6582636339574,35.6582636339574,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+d03,fam,mcye_ndaf,unkn,fob,2021-06-29,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+d04,fam,mcye_ndaf,unkn,fog,2021-07-13,toxins,33.3963553697597,33.3963553697597,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+d05,fam,mcye_ndaf,unkn,foa,2021-07-27,toxins,36.4816800198891,36.4816800198891,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+e03,fam,mcye_ndaf,unkn,fia,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+e04,fam,mcye_ndaf,unkn,fia,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+e05,fam,mcye_ndaf,unkn,fig,2021-07-27,toxins,31.8066388971599,31.8066388971599,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,grab,weekly
+f03,fam,mcye_ndaf,unkn,fib,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+f04,fam,mcye_ndaf,unkn,fib,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,bi-weekly
+f05,fam,mcye_ndaf,unkn,fog,2021-07-27,toxins,29.4480357287594,29.4480357287594,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,grab,weekly
+g03,fam,mcye_ndaf,unkn,foa,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+g04,fam,mcye_ndaf,unkn,foa,2021-07-20,toxins,35.8223832703725,35.8223832703725,0,NA,NA,NA,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,weekly
+g05,fam,mcye_ndaf,unkn,fia,2021-08-03,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,inlet,passive,weekly
+h03,fam,mcye_ndaf,unkn,fob,2021-07-06,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+h04,fam,mcye_ndaf,unkn,fob,2021-07-20,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,outlet,passive,bi-weekly
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_fl_toxins_ju29-au3_ts_rerun_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,33.5960233107054,33.5960233107054,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+a12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+b01,cal orange 560,iac,unkn,gl,NA,16s rrna,31.7529204078116,31.7529204078116,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,gl,grab,weekly
+c01,cal orange 560,iac,unkn,cl,NA,16s rrna,33.2248917358036,33.2248917358036,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,cl,NA,NA
+f12,cal orange 560,cyra,unkn,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+g12,cal orange 560,cyra,unkn,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+h01,cal orange 560,iac,ntc,NA,NA,16s rrna,33.9877966320054,33.9877966320054,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+h12,cal orange 560,cyra,pos ctrl,NA,NA,toxins,18.6729311558883,18.6729311558883,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+a12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+f12,cal red 610,sxta,unkn,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+g12,cal red 610,sxta,unkn,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+h12,cal red 610,sxta,pos ctrl,NA,NA,toxins,18.2637559471486,18.2637559471486,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,18.9399629250455,18.9399629250455,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+a12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+b01,fam,total_cyano,unkn,gl,NA,16s rrna,24.1313331351916,24.1313331351916,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,gl,grab,weekly
+c01,fam,total_cyano,unkn,cl,NA,16s rrna,24.0325866213153,24.0325866213153,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,cl,NA,NA
+f12,fam,mcye_ndaf,unkn,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+g12,fam,mcye_ndaf,unkn,NA,NA,toxins,30.4914192525552,30.4914192525552,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+h01,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+h12,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,19.4378353707851,19.4378353707851,0,NA,NA,NA,0,60,NA,cyanodtec_gl-cl-t0_16s_cl-wl-t0_toxins_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,33.3948674131385,33.3948674131385,0,NA,NA,NA,0,60,NA,cyanodtec_lp-cl-t0_16s_ts_results,NA,NA,NA
+b01,cal orange 560,iac,unkn,lp,NA,16s rrna,32.0025251397856,32.0025251397856,0,NA,NA,NA,0,60,NA,cyanodtec_lp-cl-t0_16s_ts_results,lp,NA,NA
+c01,cal orange 560,iac,unkn,cl,NA,16s rrna,32.8964698062528,32.8964698062528,0,NA,NA,NA,0,60,NA,cyanodtec_lp-cl-t0_16s_ts_results,cl,NA,NA
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,33.4991116762975,33.4991116762975,0,NA,NA,NA,0,60,NA,cyanodtec_lp-cl-t0_16s_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,18.5229441471298,18.5229441471298,0,NA,NA,NA,0,60,NA,cyanodtec_lp-cl-t0_16s_ts_results,NA,NA,NA
+b01,fam,total_cyano,unkn,lp,NA,16s rrna,21.0346358408002,21.0346358408002,0,NA,NA,NA,0,60,NA,cyanodtec_lp-cl-t0_16s_ts_results,lp,NA,NA
+c01,fam,total_cyano,unkn,cl,NA,16s rrna,23.6580808765091,23.6580808765091,0,NA,NA,NA,0,60,NA,cyanodtec_lp-cl-t0_16s_ts_results,cl,NA,NA
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-cl-t0_16s_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,33.1659370499591,33.1659370499591,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,NA,NA,NA
+a02,cal orange 560,iac,unkn,gl,NA,16s rrna,31.1519444151704,31.1519444151704,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+b01,cal orange 560,iac,unkn,lp,NA,16s rrna,31.8657129234242,31.8657129234242,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+b02,cal orange 560,iac,unkn,gl,NA,16s rrna,33.1469131895073,33.1469131895073,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+c01,cal orange 560,iac,unkn,lp,NA,16s rrna,33.0213280014203,33.0213280014203,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+c02,cal orange 560,iac,unkn,gl,NA,16s rrna,30.089968307289,30.089968307289,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+d01,cal orange 560,iac,unkn,lp,NA,16s rrna,32.9910206423937,32.9910206423937,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+e01,cal orange 560,iac,unkn,lp,NA,16s rrna,32.8283895237196,32.8283895237196,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+f01,cal orange 560,iac,unkn,lp,NA,16s rrna,32.2356664999564,32.2356664999564,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+g01,cal orange 560,iac,unkn,gl,NA,16s rrna,29.9436225378575,29.9436225378575,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+h01,cal orange 560,iac,unkn,gl,NA,16s rrna,32.2173449912084,32.2173449912084,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+h12,cal orange 560,iac,ntc,NA,NA,16s rrna,33.2988295888831,33.2988295888831,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,NA,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,18.0257958603138,18.0257958603138,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,NA,NA,NA
+a02,fam,total_cyano,unkn,gl,NA,16s rrna,24.1509910108086,24.1509910108086,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+b01,fam,total_cyano,unkn,lp,NA,16s rrna,20.5457988933179,20.5457988933179,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+b02,fam,total_cyano,unkn,gl,NA,16s rrna,30.9020826364898,30.9020826364898,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+c01,fam,total_cyano,unkn,lp,NA,16s rrna,27.6577932457973,27.6577932457973,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+c02,fam,total_cyano,unkn,gl,NA,16s rrna,27.3392027952832,27.3392027952832,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+d01,fam,total_cyano,unkn,lp,NA,16s rrna,27.3119876498476,27.3119876498476,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+e01,fam,total_cyano,unkn,lp,NA,16s rrna,31.5029161558316,31.5029161558316,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+f01,fam,total_cyano,unkn,lp,NA,16s rrna,24.1460188408554,24.1460188408554,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,lp,NA,NA
+g01,fam,total_cyano,unkn,gl,NA,16s rrna,24.4951185171377,24.4951185171377,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+h01,fam,total_cyano,unkn,gl,NA,16s rrna,26.0568287809458,26.0568287809458,0,NA,NA,NA,0,60,NA,cyanodtec_lp-gl_16s_ts_results,gl,grab,weekly
+h12,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-gl_16s_ts_results,NA,NA,NA
+a01,cal orange 560,cyra,pos ctrl,NA,NA,toxins,19.1790980727999,19.1790980727999,0,NA,NA,NA,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,NA,NA,NA
+b01,cal orange 560,cyra,unkn,lp,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,lp,NA,NA
+c01,cal orange 560,cyra,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,wl,NA,NA
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,NA,NA,NA
+a01,cal red 610,sxta,pos ctrl,NA,NA,toxins,19.2205380968194,19.2205380968194,0,NA,NA,NA,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,NA,NA,NA
+b01,cal red 610,sxta,unkn,lp,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,lp,NA,NA
+c01,cal red 610,sxta,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,wl,NA,NA
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,NA,NA,NA
+a01,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,18.6817586604337,18.6817586604337,0,NA,NA,NA,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,NA,NA,NA
+b01,fam,mcye_ndaf,unkn,lp,NA,toxins,27.6365396935385,27.6365396935385,0,NA,NA,NA,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,lp,NA,NA
+c01,fam,mcye_ndaf,unkn,wl,NA,toxins,35.9983429274396,35.9983429274396,0,NA,NA,NA,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,wl,NA,NA
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_lp-wl-t0_toxins_ts_results,NA,NA,NA
+a01,cal orange 560,iac,std-01,NA,NA,16s rrna,34.9905901834287,34.7723267666303,0.308671084206215,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+a02,cal orange 560,iac,std-01,NA,NA,16s rrna,34.5540633498319,34.7723267666303,0.308671084206215,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+a11,cal orange 560,cyra,std-06,NA,NA,toxins,19.6192754612115,19.5156687000993,0.146522086718315,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+a12,cal orange 560,cyra,std-06,NA,NA,toxins,19.4120619389872,19.5156687000993,0.146522086718315,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b01,cal orange 560,iac,std-02,NA,NA,16s rrna,34.7728733206412,34.7090544609002,0.0902534969808352,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b02,cal orange 560,iac,std-02,NA,NA,16s rrna,34.6452356011593,34.7090544609002,0.0902534969808352,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b11,cal orange 560,cyra,std-07,NA,NA,toxins,22.7481203994973,22.7698593439431,0.0307435100668814,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b12,cal orange 560,cyra,std-07,NA,NA,toxins,22.7915982883889,22.7698593439431,0.0307435100668814,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c01,cal orange 560,iac,std-03,NA,NA,16s rrna,34.4715775612858,34.7024709794739,0.326532603464298,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c02,cal orange 560,iac,std-03,NA,NA,16s rrna,34.933364397662,34.7024709794739,0.326532603464298,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c11,cal orange 560,cyra,std-08,NA,NA,toxins,26.1192411812397,26.154362724465,0.049669362760674,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c12,cal orange 560,cyra,std-08,NA,NA,toxins,26.1894842676903,26.154362724465,0.049669362760674,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d01,cal orange 560,iac,std-04,NA,NA,16s rrna,34.7261315747432,34.7372778142348,0.0157631630584165,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d02,cal orange 560,iac,std-04,NA,NA,16s rrna,34.7484240537263,34.7372778142348,0.0157631630584165,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d11,cal orange 560,cyra,std-09,NA,NA,toxins,29.4165540974562,29.4000635083171,0.0233212148120243,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d12,cal orange 560,cyra,std-09,NA,NA,toxins,29.383572919178,29.4000635083171,0.0233212148120243,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e01,cal orange 560,iac,std-05,NA,NA,16s rrna,34.5568315991762,34.5939988043772,0.0525623656707196,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e02,cal orange 560,iac,std-05,NA,NA,16s rrna,34.6311660095782,34.5939988043772,0.0525623656707196,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e11,cal orange 560,cyra,std-10,NA,NA,toxins,32.6828939216147,32.7242923866968,0.058546270780565,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e12,cal orange 560,cyra,std-10,NA,NA,toxins,32.765690851779,32.7242923866968,0.058546270780565,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+f01,cal orange 560,iac,ntc,NA,NA,16s rrna,34.8538826708866,34.8538826708866,0,NA,NA,NA,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+f02,cal orange 560,iac,unkn,wl,NA,16s rrna,31.137387534509,31.137387534509,0,716.378515072173,2.85514255243451,716.378515072173,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,wl,NA,NA
+f11,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+f12,cal orange 560,cyra,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,wl,NA,NA
+a11,cal red 610,sxta,std-06,NA,NA,toxins,18.6466438630692,18.5399588385849,0.15087540852789,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+a12,cal red 610,sxta,std-06,NA,NA,toxins,18.4332738141005,18.5399588385849,0.15087540852789,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b11,cal red 610,sxta,std-07,NA,NA,toxins,21.8477899118689,21.8628671172178,0.0213223882871769,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b12,cal red 610,sxta,std-07,NA,NA,toxins,21.8779443225668,21.8628671172178,0.0213223882871769,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c11,cal red 610,sxta,std-08,NA,NA,toxins,25.2472453414963,25.2735639651736,0.0372201545474914,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c12,cal red 610,sxta,std-08,NA,NA,toxins,25.299882588851,25.2735639651736,0.0372201545474914,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d11,cal red 610,sxta,std-09,NA,NA,toxins,28.5029682994908,28.5293619857981,0.0373263091367287,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d12,cal red 610,sxta,std-09,NA,NA,toxins,28.5557556721053,28.5293619857981,0.0373263091367287,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e11,cal red 610,sxta,std-10,NA,NA,toxins,31.8682560966335,31.9423124119652,0.104731445521397,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e12,cal red 610,sxta,std-10,NA,NA,toxins,32.0163687272968,31.9423124119652,0.104731445521397,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+f11,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+f12,cal red 610,sxta,unkn,wl,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,wl,NA,NA
+a01,fam,total_cyano,std-01,NA,NA,16s rrna,18.641049903468,18.724960716597,0.118667809956854,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+a02,fam,total_cyano,std-01,NA,NA,16s rrna,18.8088715297261,18.724960716597,0.118667809956854,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+a11,fam,mcye_ndaf,std-06,NA,NA,toxins,19.2896437928849,19.2103461990743,0.112143732630623,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+a12,fam,mcye_ndaf,std-06,NA,NA,toxins,19.1310486052636,19.2103461990743,0.112143732630623,200000,5.30102999566398,200000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b01,fam,total_cyano,std-02,NA,NA,16s rrna,22.2935147481174,22.1626900712956,0.185014032254526,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b02,fam,total_cyano,std-02,NA,NA,16s rrna,22.0318653944737,22.1626900712956,0.185014032254526,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b11,fam,mcye_ndaf,std-07,NA,NA,toxins,22.454641721468,22.4799686742991,0.0358177201872436,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+b12,fam,mcye_ndaf,std-07,NA,NA,toxins,22.5052956271301,22.4799686742991,0.0358177201872436,20000,4.30102999566398,20000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c01,fam,total_cyano,std-03,NA,NA,16s rrna,25.3652614983651,25.3654792839152,3.07995278721624e-4,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c02,fam,total_cyano,std-03,NA,NA,16s rrna,25.3656970694654,25.3654792839152,3.07995278721624e-4,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c11,fam,mcye_ndaf,std-08,NA,NA,toxins,25.9425573420194,25.9753113960786,0.0463212274731926,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+c12,fam,mcye_ndaf,std-08,NA,NA,toxins,26.0080654501378,25.9753113960786,0.0463212274731926,2000,3.30102999566398,2000,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d01,fam,total_cyano,std-04,NA,NA,16s rrna,29.0468117683355,28.9257096838076,0.171264210370994,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d02,fam,total_cyano,std-04,NA,NA,16s rrna,28.8046075992797,28.9257096838076,0.171264210370994,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d11,fam,mcye_ndaf,std-09,NA,NA,toxins,29.2532454939738,29.2701013605418,0.0238377951059328,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+d12,fam,mcye_ndaf,std-09,NA,NA,toxins,29.2869572271097,29.2701013605418,0.0238377951059328,200,2.30102999566398,200,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e01,fam,total_cyano,std-05,NA,NA,16s rrna,32.5229160770944,32.4076471490039,0.163014881425815,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e02,fam,total_cyano,std-05,NA,NA,16s rrna,32.2923782209134,32.4076471490039,0.163014881425815,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e11,fam,mcye_ndaf,std-10,NA,NA,toxins,32.5765657637199,32.6196294368507,0.0609012305872132,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+e12,fam,mcye_ndaf,std-10,NA,NA,toxins,32.6626931099815,32.6196294368507,0.0609012305872132,20,1.30102999566398,20,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+f01,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+f02,fam,total_cyano,unkn,wl,NA,16s rrna,20.7606008817691,20.7606008817691,0,58025.8002989797,4.76362113901221,58025.8002989797,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,wl,NA,NA
+f11,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,NA,NA,NA
+f12,fam,mcye_ndaf,unkn,wl,NA,toxins,29.717287172219,29.717287172219,0,131.545816971864,2.11907704250214,131.545816971864,0,60,NA,cyanodtec_stdcurves_wlsample_110821_ts_results,wl,NA,NA
+a01,cal orange 560,cyra,pos ctrl,NA,NA,toxins,19.5342802979783,19.5342802979783,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,NA,NA,NA
+a05,cal orange 560,cyra,unkn,foa,2021-10-26,toxins,32.7286700323633,32.7286700323633,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+a06,cal orange 560,cyra,unkn,fia,2021-11-09,toxins,33.6421071769911,33.6421071769911,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+a07,cal orange 560,cyra,unkn,fog,2021-11-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+b05,cal orange 560,cyra,unkn,fob,2021-10-26,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,bi-weekly
+b06,cal orange 560,cyra,unkn,fib,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,bi-weekly
+b07,cal orange 560,cyra,unkn,fib,2021-11-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,bi-weekly
+c05,cal orange 560,cyra,unkn,fog,2021-10-26,toxins,33.9989968656027,33.9989968656027,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+c06,cal orange 560,cyra,unkn,foa,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+c07,cal orange 560,cyra,unkn,fob,2021-11-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,bi-weekly
+d05,cal orange 560,cyra,unkn,fig,2021-10-26,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+d06,cal orange 560,cyra,unkn,fig,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+d07,cal orange 560,cyra,unkn,fig,2021-11-30,toxins,37.0616738612389,37.0616738612389,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+e05,cal orange 560,cyra,unkn,fia,2021-11-02,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+e06,cal orange 560,cyra,unkn,fog,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+e07,cal orange 560,cyra,unkn,fog,2021-11-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+f05,cal orange 560,cyra,unkn,foa,2021-11-02,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+f06,cal orange 560,cyra,unkn,fia,2021-11-16,toxins,34.9170839925506,34.9170839925506,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+f07,cal orange 560,cyra,unkn,cp,2021-11-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,intake,passive,weekly
+g05,cal orange 560,cyra,unkn,fig,2021-11-02,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+g06,cal orange 560,cyra,unkn,foa,2021-11-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+h05,cal orange 560,cyra,unkn,fog,2021-11-02,toxins,37.1988909278044,37.1988909278044,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+h06,cal orange 560,cyra,unkn,fig,2021-11-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,NA,NA,NA
+a01,cal red 610,sxta,pos ctrl,NA,NA,toxins,19.8011396195671,19.8011396195671,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,NA,NA,NA
+a05,cal red 610,sxta,unkn,foa,2021-10-26,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+a06,cal red 610,sxta,unkn,fia,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+a07,cal red 610,sxta,unkn,fog,2021-11-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+b05,cal red 610,sxta,unkn,fob,2021-10-26,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,bi-weekly
+b06,cal red 610,sxta,unkn,fib,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,bi-weekly
+b07,cal red 610,sxta,unkn,fib,2021-11-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,bi-weekly
+c05,cal red 610,sxta,unkn,fog,2021-10-26,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+c06,cal red 610,sxta,unkn,foa,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+c07,cal red 610,sxta,unkn,fob,2021-11-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,bi-weekly
+d05,cal red 610,sxta,unkn,fig,2021-10-26,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+d06,cal red 610,sxta,unkn,fig,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+d07,cal red 610,sxta,unkn,fig,2021-11-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+e05,cal red 610,sxta,unkn,fia,2021-11-02,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+e06,cal red 610,sxta,unkn,fog,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+e07,cal red 610,sxta,unkn,fog,2021-11-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+f05,cal red 610,sxta,unkn,foa,2021-11-02,toxins,32.1135382050175,32.1135382050175,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+f06,cal red 610,sxta,unkn,fia,2021-11-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+f07,cal red 610,sxta,unkn,cp,2021-11-25,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,intake,passive,weekly
+g05,cal red 610,sxta,unkn,fig,2021-11-02,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+g06,cal red 610,sxta,unkn,foa,2021-11-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+h05,cal red 610,sxta,unkn,fog,2021-11-02,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+h06,cal red 610,sxta,unkn,fig,2021-11-16,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,NA,NA,NA
+a01,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,19.4740670373934,19.4740670373934,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,NA,NA,NA
+a05,fam,mcye_ndaf,unkn,foa,2021-10-26,toxins,39.0737878394544,39.0737878394544,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+a06,fam,mcye_ndaf,unkn,fia,2021-11-09,toxins,33.2627471534995,33.2627471534995,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+a07,fam,mcye_ndaf,unkn,fog,2021-11-16,toxins,29.5247627434538,29.5247627434538,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+b05,fam,mcye_ndaf,unkn,fob,2021-10-26,toxins,29.7306573584231,29.7306573584231,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,bi-weekly
+b06,fam,mcye_ndaf,unkn,fib,2021-11-09,toxins,35.5974596394505,35.5974596394505,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,bi-weekly
+b07,fam,mcye_ndaf,unkn,fib,2021-11-30,toxins,33.7430740829996,33.7430740829996,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,bi-weekly
+c05,fam,mcye_ndaf,unkn,fog,2021-10-26,toxins,26.0161472035477,26.0161472035477,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+c06,fam,mcye_ndaf,unkn,foa,2021-11-09,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+c07,fam,mcye_ndaf,unkn,fob,2021-11-30,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,bi-weekly
+d05,fam,mcye_ndaf,unkn,fig,2021-10-26,toxins,31.8721873039387,31.8721873039387,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+d06,fam,mcye_ndaf,unkn,fig,2021-11-09,toxins,31.8666366861958,31.8666366861958,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+d07,fam,mcye_ndaf,unkn,fig,2021-11-30,toxins,29.0621340190228,29.0621340190228,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+e05,fam,mcye_ndaf,unkn,fia,2021-11-02,toxins,36.0792660076545,36.0792660076545,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+e06,fam,mcye_ndaf,unkn,fog,2021-11-09,toxins,30.9639166535802,30.9639166535802,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+e07,fam,mcye_ndaf,unkn,fog,2021-11-30,toxins,30.4276061805791,30.4276061805791,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+f05,fam,mcye_ndaf,unkn,foa,2021-11-02,toxins,31.6401075736009,31.6401075736009,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+f06,fam,mcye_ndaf,unkn,fia,2021-11-16,toxins,33.084242755718,33.084242755718,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,passive,weekly
+f07,fam,mcye_ndaf,unkn,cp,2021-11-25,toxins,29.0177853665808,29.0177853665808,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,intake,passive,weekly
+g05,fam,mcye_ndaf,unkn,fig,2021-11-02,toxins,31.0190288211922,31.0190288211922,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+g06,fam,mcye_ndaf,unkn,foa,2021-11-16,toxins,32.6601447408859,32.6601447408859,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,passive,weekly
+h05,fam,mcye_ndaf,unkn,fog,2021-11-02,toxins,27.1986666751876,27.1986666751876,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,outlet,grab,weekly
+h06,fam,mcye_ndaf,unkn,fig,2021-11-16,toxins,30.0328408425974,30.0328408425974,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,inlet,grab,weekly
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_oc26-no30_cp_no25_ts_results,NA,NA,NA
+a01,cal orange 560,cyra,pos ctrl,NA,NA,toxins,19.4050337712643,19.4050337712643,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,NA,NA,NA
+a05,cal orange 560,cyra,unkn,fia,2021-09-28,toxins,35.0947081404572,35.0947081404572,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+a06,cal orange 560,cyra,unkn,fia,2021-10-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+a07,cal orange 560,cyra,unkn,fig,2021-10-19,toxins,37.1284081449397,37.1284081449397,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+b05,cal orange 560,cyra,unkn,fib,2021-09-28,toxins,35.8887966785666,35.8887966785666,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+b06,cal orange 560,cyra,unkn,fib,2021-10-12,toxins,35.8802686459727,35.8802686459727,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+b07,cal orange 560,cyra,unkn,fog,2021-10-19,toxins,35.2619158378848,35.2619158378848,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+c05,cal orange 560,cyra,unkn,fig,2021-09-28,toxins,33.5841817590838,33.5841817590838,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+c06,cal orange 560,cyra,unkn,foa,2021-10-12,toxins,32.7354276065228,32.7354276065228,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+c07,cal orange 560,cyra,unkn,fia,2021-10-19,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+d05,cal orange 560,cyra,unkn,fog,2021-09-28,toxins,30.1805820800468,30.1805820800468,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+d06,cal orange 560,cyra,unkn,fob,2021-10-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,bi-weekly
+d07,cal orange 560,cyra,unkn,fib,2021-10-19,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+e05,cal orange 560,cyra,unkn,fia,2021-10-05,toxins,33.8961960495774,33.8961960495774,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+e06,cal orange 560,cyra,unkn,fig,2021-10-12,toxins,33.9186600979462,33.9186600979462,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+e07,cal orange 560,cyra,unkn,m1,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,m1,NA,NA
+f05,cal orange 560,cyra,unkn,foa,2021-10-05,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+f06,cal orange 560,cyra,unkn,fog,2021-10-12,toxins,31.5923304943396,31.5923304943396,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+f07,cal orange 560,cyra,unkn,m1,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,m1,NA,NA
+g05,cal orange 560,cyra,unkn,fig,2021-10-05,toxins,35.1052338894598,35.1052338894598,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+g06,cal orange 560,cyra,unkn,fia,2021-10-19,toxins,32.9953638558926,32.9953638558926,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+h05,cal orange 560,cyra,unkn,fog,2021-10-05,toxins,20.8426237321456,20.8426237321456,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+h06,cal orange 560,cyra,unkn,foa,2021-10-19,toxins,27.1797876171785,27.1797876171785,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+h12,cal orange 560,cyra,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,NA,NA,NA
+a01,cal red 610,sxta,pos ctrl,NA,NA,toxins,21.532209984174,21.532209984174,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,NA,NA,NA
+a05,cal red 610,sxta,unkn,fia,2021-09-28,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+a06,cal red 610,sxta,unkn,fia,2021-10-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+a07,cal red 610,sxta,unkn,fig,2021-10-19,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+b05,cal red 610,sxta,unkn,fib,2021-09-28,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+b06,cal red 610,sxta,unkn,fib,2021-10-12,toxins,38.8251100535787,38.8251100535787,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+b07,cal red 610,sxta,unkn,fog,2021-10-19,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+c05,cal red 610,sxta,unkn,fig,2021-09-28,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+c06,cal red 610,sxta,unkn,foa,2021-10-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+c07,cal red 610,sxta,unkn,fia,2021-10-19,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+d05,cal red 610,sxta,unkn,fog,2021-09-28,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+d06,cal red 610,sxta,unkn,fob,2021-10-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,bi-weekly
+d07,cal red 610,sxta,unkn,fib,2021-10-19,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+e05,cal red 610,sxta,unkn,fia,2021-10-05,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+e06,cal red 610,sxta,unkn,fig,2021-10-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+e07,cal red 610,sxta,unkn,m1,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,m1,NA,NA
+f05,cal red 610,sxta,unkn,foa,2021-10-05,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+f06,cal red 610,sxta,unkn,fog,2021-10-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+f07,cal red 610,sxta,unkn,m1,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,m1,NA,NA
+g05,cal red 610,sxta,unkn,fig,2021-10-05,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+g06,cal red 610,sxta,unkn,fia,2021-10-19,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+h05,cal red 610,sxta,unkn,fog,2021-10-05,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+h06,cal red 610,sxta,unkn,foa,2021-10-19,toxins,36.4414964766339,36.4414964766339,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+h12,cal red 610,sxta,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,NA,NA,NA
+a01,fam,mcye_ndaf,pos ctrl,NA,NA,toxins,20.9063580055333,20.9063580055333,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,NA,NA,NA
+a05,fam,mcye_ndaf,unkn,fia,2021-09-28,toxins,36.2993814047398,36.2993814047398,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+a06,fam,mcye_ndaf,unkn,fia,2021-10-12,toxins,35.1143997948033,35.1143997948033,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+a07,fam,mcye_ndaf,unkn,fig,2021-10-19,toxins,29.8700584039065,29.8700584039065,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+b05,fam,mcye_ndaf,unkn,fib,2021-09-28,toxins,36.2852847910567,36.2852847910567,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+b06,fam,mcye_ndaf,unkn,fib,2021-10-12,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+b07,fam,mcye_ndaf,unkn,fog,2021-10-19,toxins,28.6717944786818,28.6717944786818,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+c05,fam,mcye_ndaf,unkn,fig,2021-09-28,toxins,29.6883110413576,29.6883110413576,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+c06,fam,mcye_ndaf,unkn,foa,2021-10-12,toxins,29.3382620283896,29.3382620283896,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+c07,fam,mcye_ndaf,unkn,fia,2021-10-19,toxins,33.0411581653086,33.0411581653086,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+d05,fam,mcye_ndaf,unkn,fog,2021-09-28,toxins,24.8563657021307,24.8563657021307,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+d06,fam,mcye_ndaf,unkn,fob,2021-10-12,toxins,31.8083899633143,31.8083899633143,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,bi-weekly
+d07,fam,mcye_ndaf,unkn,fib,2021-10-19,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,bi-weekly
+e05,fam,mcye_ndaf,unkn,fia,2021-10-05,toxins,32.1483548198373,32.1483548198373,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+e06,fam,mcye_ndaf,unkn,fig,2021-10-12,toxins,28.7459605034467,28.7459605034467,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+e07,fam,mcye_ndaf,unkn,m1,NA,toxins,31.6491715462265,31.6491715462265,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,m1,NA,NA
+f05,fam,mcye_ndaf,unkn,foa,2021-10-05,toxins,31.0776168398938,31.0776168398938,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+f06,fam,mcye_ndaf,unkn,fog,2021-10-12,toxins,25.8211436799695,25.8211436799695,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+f07,fam,mcye_ndaf,unkn,m1,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,m1,NA,NA
+g05,fam,mcye_ndaf,unkn,fig,2021-10-05,toxins,29.3684526144206,29.3684526144206,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,grab,weekly
+g06,fam,mcye_ndaf,unkn,fia,2021-10-19,toxins,33.2790480583165,33.2790480583165,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,inlet,passive,weekly
+h05,fam,mcye_ndaf,unkn,fog,2021-10-05,toxins,27.2670722450664,27.2670722450664,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,grab,weekly
+h06,fam,mcye_ndaf,unkn,foa,2021-10-19,toxins,29.6742308046908,29.6742308046908,0,NA,NA,NA,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,outlet,passive,weekly
+h12,fam,mcye_ndaf,ntc,NA,NA,toxins,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_toxins_fl_se28-oc26_monc_g1_cn1_ts_results,NA,NA,NA
+a01,cal orange 560,iac,pos ctrl,NA,NA,16s rrna,33.2066302946078,33.2066302946078,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,NA,NA,NA
+b01,cal orange 560,iac,ntc,NA,NA,16s rrna,33.2016747111253,33.2016747111253,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,NA,NA,NA
+c01,cal orange 560,iac,unkn,control,NA,16s rrna,30.8079070621978,30.8079070621978,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,outlet,NA,NA
+d01,cal orange 560,iac,unkn,wl,NA,16s rrna,30.206016939611,30.206016939611,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,wl,NA,NA
+e12,cal orange 560,iac,unkn,gauze,NA,16s rrna,32.3271359392415,32.3271359392415,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,gauze,grab,weekly
+f12,cal orange 560,iac,unkn,a.,NA,16s rrna,33.1416521965945,33.1416521965945,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,a.,passive,weekly
+g12,cal orange 560,iac,unkn,c.,NA,16s rrna,32.6580213576103,32.6580213576103,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,c.,NA,NA
+h12,cal orange 560,iac,unkn,nylon,NA,16s rrna,33.3499781985821,33.3499781985821,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,outlet,NA,NA
+a01,fam,total_cyano,pos ctrl,NA,NA,16s rrna,18.7417323204097,18.7417323204097,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,NA,NA,NA
+b01,fam,total_cyano,ntc,NA,NA,16s rrna,NA,0,0,NA,NA,0,0,60,NA,cyanodtec_wl_16s_au11_ts_results,NA,NA,NA
+c01,fam,total_cyano,unkn,control,NA,16s rrna,20.7270181079363,20.7270181079363,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,outlet,NA,NA
+d01,fam,total_cyano,unkn,wl,NA,16s rrna,20.507448925434,20.507448925434,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,wl,NA,NA
+e12,fam,total_cyano,unkn,gauze,NA,16s rrna,26.9601045801087,26.9601045801087,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,gauze,grab,weekly
+f12,fam,total_cyano,unkn,a.,NA,16s rrna,28.3387948526611,28.3387948526611,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,a.,passive,weekly
+g12,fam,total_cyano,unkn,c.,NA,16s rrna,27.2945882458714,27.2945882458714,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,c.,NA,NA
+h12,fam,total_cyano,unkn,nylon,NA,16s rrna,33.1872975020595,33.1872975020595,0,NA,NA,NA,0,60,NA,cyanodtec_wl_16s_au11_ts_results,outlet,NA,NA

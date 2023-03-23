@@ -1,0 +1,482 @@
+date,location,target,assay,conc,type,frequency,lod
+2021-07-13,inlet,total_cyano,16s rrna,1157580.373182551,passive,weekly,260
+2021-07-13,outlet,total_cyano,16s rrna,840699.017496502,passive,weekly,260
+2021-07-13,inlet,total_cyano,16s rrna,119847.99517405743,grab,weekly,180
+2021-07-13,outlet,total_cyano,16s rrna,96933.15145586943,grab,weekly,180
+2021-07-13,inlet,cyra,toxins,28.039632345407632,passive,weekly,260
+2021-07-13,outlet,cyra,toxins,7.576115779257959,passive,weekly,260
+2021-07-13,inlet,cyra,toxins,NA,grab,weekly,180
+2021-07-13,outlet,cyra,toxins,NA,grab,weekly,180
+2021-07-13,inlet,sxta,toxins,NA,passive,weekly,260
+2021-07-13,outlet,sxta,toxins,NA,passive,weekly,260
+2021-07-13,inlet,sxta,toxins,NA,grab,weekly,180
+2021-07-13,outlet,sxta,toxins,NA,grab,weekly,180
+2021-07-13,outlet,mcye_ndaf,toxins,NA,passive,weekly,260
+2021-07-13,inlet,mcye_ndaf,toxins,98.35494200477986,grab,weekly,180
+2021-07-13,outlet,mcye_ndaf,toxins,59.26708186388176,grab,weekly,180
+2021-07-15,intake,total_cyano,16s rrna,961542.4065018735,passive,weekly,260
+2021-07-15,intake,cyra,toxins,NA,passive,weekly,260
+2021-07-15,intake,sxta,toxins,NA,passive,weekly,260
+2021-07-15,intake,mcye_ndaf,toxins,3093.382899584666,passive,weekly,260
+2021-07-20,inlet,total_cyano,16s rrna,88812.52706576644,grab,weekly,180
+2021-07-20,outlet,total_cyano,16s rrna,68796.72974066478,grab,weekly,180
+2021-07-20,inlet,total_cyano,16s rrna,526745.769497178,passive,weekly,260
+2021-07-20,inlet,total_cyano,16s rrna,455869.60477544466,passive,bi-weekly,260
+2021-07-20,outlet,total_cyano,16s rrna,1167368.5650299771,passive,weekly,260
+2021-07-20,outlet,total_cyano,16s rrna,2670404.759680373,passive,bi-weekly,260
+2021-07-20,inlet,cyra,toxins,NA,grab,weekly,180
+2021-07-20,outlet,cyra,toxins,NA,grab,weekly,180
+2021-07-20,inlet,cyra,toxins,NA,passive,weekly,260
+2021-07-20,inlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-07-20,outlet,cyra,toxins,84.12961266055483,passive,weekly,260
+2021-07-20,outlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-07-20,inlet,sxta,toxins,NA,grab,weekly,180
+2021-07-20,outlet,sxta,toxins,NA,grab,weekly,180
+2021-07-20,inlet,sxta,toxins,NA,passive,weekly,260
+2021-07-20,inlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-07-20,outlet,sxta,toxins,7.991304752209299,passive,weekly,260
+2021-07-20,outlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-07-20,inlet,mcye_ndaf,toxins,63.3147141066697,grab,weekly,180
+2021-07-20,outlet,mcye_ndaf,toxins,88.28465243597915,grab,weekly,180
+2021-07-20,inlet,mcye_ndaf,toxins,NA,passive,weekly,260
+2021-07-20,inlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-07-20,outlet,mcye_ndaf,toxins,64.81607408166185,passive,weekly,260
+2021-07-20,outlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-07-22,intake,total_cyano,16s rrna,863890.3932723032,passive,weekly,260
+2021-07-22,intake,cyra,toxins,NA,passive,weekly,260
+2021-07-22,intake,sxta,toxins,NA,passive,weekly,260
+2021-07-22,intake,mcye_ndaf,toxins,989.6280824680119,passive,weekly,260
+2021-07-27,inlet,total_cyano,16s rrna,413800.47177633183,passive,weekly,260
+2021-07-27,outlet,total_cyano,16s rrna,920888.3448847814,passive,weekly,260
+2021-07-27,inlet,total_cyano,16s rrna,128834.91753158186,grab,weekly,180
+2021-07-27,outlet,total_cyano,16s rrna,144106.30214827275,grab,weekly,180
+2021-07-27,inlet,cyra,toxins,814.3692736460267,passive,weekly,260
+2021-07-27,outlet,cyra,toxins,NA,passive,weekly,260
+2021-07-27,inlet,cyra,toxins,NA,grab,weekly,180
+2021-07-27,outlet,cyra,toxins,6.312624787152882,grab,weekly,180
+2021-07-27,inlet,sxta,toxins,NA,passive,weekly,260
+2021-07-27,outlet,sxta,toxins,NA,passive,weekly,260
+2021-07-27,inlet,sxta,toxins,NA,grab,weekly,180
+2021-07-27,outlet,sxta,toxins,NA,grab,weekly,180
+2021-07-27,inlet,mcye_ndaf,toxins,72.52958778460611,passive,weekly,260
+2021-07-27,outlet,mcye_ndaf,toxins,41.25857653380989,passive,weekly,260
+2021-07-27,inlet,mcye_ndaf,toxins,176.12499087078282,grab,weekly,180
+2021-07-27,outlet,mcye_ndaf,toxins,886.3485080257699,grab,weekly,180
+2021-07-28,intake,total_cyano,16s rrna,917941.458749899,passive,weekly,260
+2021-07-28,intake,cyra,toxins,134.2725265525872,passive,weekly,260
+2021-07-28,intake,sxta,toxins,NA,passive,weekly,260
+2021-07-28,intake,mcye_ndaf,toxins,26680.941598651872,passive,weekly,260
+2021-08-03,inlet,total_cyano,16s rrna,1819662.476457634,passive,bi-weekly,260
+2021-08-03,outlet,total_cyano,16s rrna,308102.00370503735,passive,weekly,260
+2021-08-03,outlet,total_cyano,16s rrna,476162.102526812,passive,bi-weekly,260
+2021-08-03,inlet,total_cyano,16s rrna,73707.72993604955,grab,weekly,180
+2021-08-03,outlet,total_cyano,16s rrna,107574.28827550203,grab,weekly,180
+2021-08-03,inlet,total_cyano,16s rrna,324612.82281204715,passive,weekly,260
+2021-08-03,inlet,cyra,toxins,69.0711728062364,passive,bi-weekly,260
+2021-08-03,outlet,cyra,toxins,1010.3724709546035,passive,weekly,260
+2021-08-03,outlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-08-03,inlet,cyra,toxins,6.566708102633147,grab,weekly,180
+2021-08-03,outlet,cyra,toxins,NA,grab,weekly,180
+2021-08-03,inlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-08-03,outlet,sxta,toxins,NA,passive,weekly,260
+2021-08-03,outlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-08-03,inlet,sxta,toxins,NA,grab,weekly,180
+2021-08-03,outlet,sxta,toxins,NA,grab,weekly,180
+2021-08-03,inlet,mcye_ndaf,toxins,30.45218897066558,passive,bi-weekly,260
+2021-08-03,outlet,mcye_ndaf,toxins,31.95694490830141,passive,weekly,260
+2021-08-03,outlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-08-03,inlet,mcye_ndaf,toxins,228.25699798502492,grab,weekly,180
+2021-08-03,outlet,mcye_ndaf,toxins,811.0636123716014,grab,weekly,180
+2021-08-03,inlet,cyra,toxins,1474.0509990655944,passive,weekly,260
+2021-08-03,inlet,sxta,toxins,NA,passive,weekly,260
+2021-08-03,inlet,mcye_ndaf,toxins,NA,passive,weekly,260
+2021-08-05,intake,total_cyano,16s rrna,959927.4299026692,passive,weekly,260
+2021-08-05,intake,cyra,toxins,NA,passive,weekly,260
+2021-08-05,intake,sxta,toxins,NA,passive,weekly,260
+2021-08-05,intake,mcye_ndaf,toxins,18054.76297303043,passive,weekly,260
+2021-08-10,inlet,total_cyano,16s rrna,141911.20846818743,grab,weekly,180
+2021-08-10,outlet,total_cyano,16s rrna,185593.6044316189,grab,weekly,180
+2021-08-10,inlet,total_cyano,16s rrna,537650.7760188739,passive,weekly,260
+2021-08-10,outlet,total_cyano,16s rrna,140773.33204395702,passive,weekly,260
+2021-08-10,inlet,cyra,toxins,NA,grab,weekly,180
+2021-08-10,outlet,cyra,toxins,51.91938917944194,grab,weekly,180
+2021-08-10,inlet,cyra,toxins,353.5553103238604,passive,weekly,260
+2021-08-10,outlet,cyra,toxins,NA,passive,weekly,260
+2021-08-10,inlet,sxta,toxins,NA,grab,weekly,180
+2021-08-10,outlet,sxta,toxins,NA,grab,weekly,180
+2021-08-10,inlet,sxta,toxins,170.5703206006012,passive,weekly,260
+2021-08-10,outlet,sxta,toxins,NA,passive,weekly,260
+2021-08-10,inlet,mcye_ndaf,toxins,455.9932903049769,grab,weekly,180
+2021-08-10,outlet,mcye_ndaf,toxins,2182.395058343826,grab,weekly,180
+2021-08-10,inlet,mcye_ndaf,toxins,544.3389398083007,passive,weekly,260
+2021-08-10,outlet,mcye_ndaf,toxins,22.688433516693912,passive,weekly,260
+2021-08-12,intake,total_cyano,16s rrna,339755.1010191884,passive,weekly,260
+2021-08-12,intake,cyra,toxins,34.96693435408761,passive,weekly,260
+2021-08-12,intake,sxta,toxins,NA,passive,weekly,260
+2021-08-12,intake,mcye_ndaf,toxins,56139.62422189639,passive,weekly,260
+2021-08-17,inlet,total_cyano,16s rrna,494244.1463982397,passive,weekly,260
+2021-08-17,inlet,total_cyano,16s rrna,580098.3425695943,passive,bi-weekly,260
+2021-08-17,inlet,total_cyano,16s rrna,124436.91287684954,grab,weekly,180
+2021-08-17,outlet,total_cyano,16s rrna,110783.8611201716,grab,weekly,180
+2021-08-17,inlet,cyra,toxins,NA,passive,weekly,260
+2021-08-17,inlet,cyra,toxins,2731.7166158916198,passive,bi-weekly,260
+2021-08-17,inlet,cyra,toxins,NA,grab,weekly,180
+2021-08-17,outlet,cyra,toxins,1.4016827846854258,grab,weekly,180
+2021-08-17,inlet,sxta,toxins,NA,passive,weekly,260
+2021-08-17,inlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-08-17,inlet,sxta,toxins,NA,grab,weekly,180
+2021-08-17,outlet,sxta,toxins,NA,grab,weekly,180
+2021-08-17,inlet,mcye_ndaf,toxins,420.76714664335236,passive,weekly,260
+2021-08-17,inlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-08-17,inlet,mcye_ndaf,toxins,558.6644237039828,grab,weekly,180
+2021-08-17,outlet,mcye_ndaf,toxins,1923.8811005400983,grab,weekly,180
+2021-08-19,intake,total_cyano,16s rrna,760993.6346695026,passive,weekly,260
+2021-08-24,outlet,total_cyano,16s rrna,73618.40026812552,passive,bi-weekly,260
+2021-08-24,inlet,total_cyano,16s rrna,90394.81608600049,grab,weekly,180
+2021-08-24,outlet,total_cyano,16s rrna,142274.44827173383,grab,weekly,180
+2021-08-24,inlet,total_cyano,16s rrna,253599.59674799425,passive,weekly,260
+2021-08-24,outlet,total_cyano,16s rrna,168082.88954933282,passive,weekly,260
+2021-08-24,outlet,cyra,toxins,28.976604655623998,passive,bi-weekly,260
+2021-08-24,inlet,cyra,toxins,NA,grab,weekly,180
+2021-08-24,outlet,cyra,toxins,1.1821330490768696,grab,weekly,180
+2021-08-24,inlet,cyra,toxins,NA,passive,weekly,260
+2021-08-24,outlet,cyra,toxins,NA,passive,weekly,260
+2021-08-24,outlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-08-24,inlet,sxta,toxins,NA,grab,weekly,180
+2021-08-24,outlet,sxta,toxins,NA,grab,weekly,180
+2021-08-24,inlet,sxta,toxins,NA,passive,weekly,260
+2021-08-24,outlet,sxta,toxins,NA,passive,weekly,260
+2021-08-24,outlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-08-24,inlet,mcye_ndaf,toxins,775.549741381776,grab,weekly,180
+2021-08-24,outlet,mcye_ndaf,toxins,1734.4855729072349,grab,weekly,180
+2021-08-24,inlet,mcye_ndaf,toxins,NA,passive,weekly,260
+2021-08-24,outlet,mcye_ndaf,toxins,8.49799467863854,passive,weekly,260
+2021-08-26,intake,total_cyano,16s rrna,884351.8509090891,passive,weekly,260
+2021-08-31,inlet,total_cyano,16s rrna,524977.997196516,passive,weekly,260
+2021-08-31,inlet,total_cyano,16s rrna,1322990.439894711,passive,bi-weekly,260
+2021-08-31,outlet,total_cyano,16s rrna,271932.9702215355,passive,weekly,260
+2021-08-31,outlet,total_cyano,16s rrna,31899.234185579397,passive,bi-weekly,260
+2021-08-31,inlet,total_cyano,16s rrna,288419.47794991056,grab,weekly,180
+2021-08-31,outlet,total_cyano,16s rrna,359944.53672804503,grab,weekly,180
+2021-08-31,inlet,cyra,toxins,NA,passive,weekly,260
+2021-08-31,inlet,cyra,toxins,1442.9068071184176,passive,bi-weekly,260
+2021-08-31,outlet,cyra,toxins,NA,passive,weekly,260
+2021-08-31,outlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-08-31,inlet,sxta,toxins,17.89037449151206,passive,weekly,260
+2021-08-31,inlet,sxta,toxins,484.8227192788675,passive,bi-weekly,260
+2021-08-31,outlet,sxta,toxins,NA,passive,weekly,260
+2021-08-31,outlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-08-31,inlet,mcye_ndaf,toxins,15.24732625526245,passive,weekly,260
+2021-08-31,inlet,mcye_ndaf,toxins,27.6345339748962,passive,bi-weekly,260
+2021-08-31,outlet,mcye_ndaf,toxins,27.968927618560603,passive,weekly,260
+2021-08-31,outlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-08-31,inlet,cyra,toxins,NA,grab,weekly,180
+2021-08-31,outlet,cyra,toxins,8.239885939347202,grab,weekly,180
+2021-08-31,inlet,sxta,toxins,NA,grab,weekly,180
+2021-08-31,outlet,sxta,toxins,NA,grab,weekly,180
+2021-08-31,inlet,mcye_ndaf,toxins,4020.06622125841,grab,weekly,180
+2021-08-31,outlet,mcye_ndaf,toxins,20777.36874917402,grab,weekly,180
+2021-09-02,intake,total_cyano,16s rrna,146523.1978910336,passive,weekly,260
+2021-09-02,intake,cyra,toxins,4.091273543030604,passive,weekly,260
+2021-09-02,intake,sxta,toxins,NA,passive,weekly,260
+2021-09-02,intake,mcye_ndaf,toxins,3236.89523531144,passive,weekly,260
+2021-09-02,intake,total_cyano,16s rrna,196051.27988676168,passive,weekly,260
+2021-09-07,inlet,total_cyano,16s rrna,2285301.7054287842,passive,weekly,260
+2021-09-07,outlet,total_cyano,16s rrna,1225640.9212361556,passive,weekly,260
+2021-09-07,inlet,total_cyano,16s rrna,274321.6841132201,grab,weekly,180
+2021-09-07,outlet,total_cyano,16s rrna,352823.8978387136,grab,weekly,180
+2021-09-07,inlet,cyra,toxins,1659.4567565792477,passive,weekly,260
+2021-09-07,outlet,cyra,toxins,933.5736698963692,passive,weekly,260
+2021-09-07,inlet,cyra,toxins,23.603297408042614,grab,weekly,180
+2021-09-07,outlet,cyra,toxins,0.8145357693524317,grab,weekly,180
+2021-09-07,inlet,sxta,toxins,782.4397657145801,passive,weekly,260
+2021-09-07,outlet,sxta,toxins,NA,passive,weekly,260
+2021-09-07,inlet,sxta,toxins,NA,grab,weekly,180
+2021-09-07,outlet,sxta,toxins,NA,grab,weekly,180
+2021-09-07,inlet,mcye_ndaf,toxins,771.51039227864,passive,weekly,260
+2021-09-07,outlet,mcye_ndaf,toxins,6587.767533181038,passive,weekly,260
+2021-09-07,inlet,mcye_ndaf,toxins,5940.104810737844,grab,weekly,180
+2021-09-07,outlet,mcye_ndaf,toxins,38272.63629829804,grab,weekly,180
+2021-09-09,intake,total_cyano,16s rrna,143382.76660474812,passive,weekly,260
+2021-09-09,intake,cyra,toxins,NA,passive,weekly,260
+2021-09-09,intake,sxta,toxins,NA,passive,weekly,260
+2021-09-09,intake,mcye_ndaf,toxins,3593.1310773929204,passive,weekly,260
+2021-09-09,intake,total_cyano,16s rrna,196095.7651004624,passive,weekly,260
+2021-09-14,inlet,total_cyano,16s rrna,2216230.9353322526,passive,bi-weekly,260
+2021-09-14,outlet,total_cyano,16s rrna,1085305.4411973297,passive,weekly,260
+2021-09-14,outlet,total_cyano,16s rrna,708905.9513902199,passive,bi-weekly,260
+2021-09-14,inlet,total_cyano,16s rrna,380215.5606163065,grab,weekly,180
+2021-09-14,outlet,total_cyano,16s rrna,384233.2792266355,grab,weekly,180
+2021-09-14,inlet,total_cyano,16s rrna,478473.5833315002,passive,weekly,260
+2021-09-14,inlet,cyra,toxins,2699.7619344753575,passive,bi-weekly,260
+2021-09-14,outlet,cyra,toxins,NA,passive,weekly,260
+2021-09-14,outlet,cyra,toxins,22.740402941662243,passive,bi-weekly,260
+2021-09-14,inlet,cyra,toxins,NA,grab,weekly,180
+2021-09-14,outlet,cyra,toxins,4.394502847782975,grab,weekly,180
+2021-09-14,inlet,cyra,toxins,187.5480768044468,passive,weekly,260
+2021-09-14,inlet,sxta,toxins,636.22022935937,passive,bi-weekly,260
+2021-09-14,outlet,sxta,toxins,NA,passive,weekly,260
+2021-09-14,outlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-09-14,inlet,sxta,toxins,NA,grab,weekly,180
+2021-09-14,outlet,sxta,toxins,NA,grab,weekly,180
+2021-09-14,inlet,sxta,toxins,NA,passive,weekly,260
+2021-09-14,inlet,mcye_ndaf,toxins,1701.9463437675988,passive,bi-weekly,260
+2021-09-14,outlet,mcye_ndaf,toxins,3739.362835715388,passive,weekly,260
+2021-09-14,outlet,mcye_ndaf,toxins,1479.8844700387501,passive,bi-weekly,260
+2021-09-14,inlet,mcye_ndaf,toxins,4363.869588520789,grab,weekly,180
+2021-09-14,outlet,mcye_ndaf,toxins,27068.9444202211,grab,weekly,180
+2021-09-14,inlet,mcye_ndaf,toxins,26.75776176383171,passive,weekly,260
+2021-09-16,intake,total_cyano,16s rrna,1001635.0917861128,passive,weekly,260
+2021-09-16,intake,cyra,toxins,NA,passive,weekly,260
+2021-09-16,intake,sxta,toxins,NA,passive,weekly,260
+2021-09-16,intake,mcye_ndaf,toxins,35848.37409442709,passive,weekly,260
+2021-09-21,inlet,total_cyano,16s rrna,122579.67220105675,passive,weekly,260
+2021-09-21,outlet,total_cyano,16s rrna,113557.9857080162,passive,weekly,260
+2021-09-21,inlet,total_cyano,16s rrna,44834.617295572694,grab,weekly,180
+2021-09-21,outlet,total_cyano,16s rrna,89933.51756790988,grab,weekly,180
+2021-09-21,inlet,cyra,toxins,NA,passive,weekly,260
+2021-09-21,outlet,cyra,toxins,NA,passive,weekly,260
+2021-09-21,inlet,cyra,toxins,NA,grab,weekly,180
+2021-09-21,outlet,cyra,toxins,NA,grab,weekly,180
+2021-09-21,inlet,sxta,toxins,NA,passive,weekly,260
+2021-09-21,outlet,sxta,toxins,NA,passive,weekly,260
+2021-09-21,inlet,sxta,toxins,NA,grab,weekly,180
+2021-09-21,outlet,sxta,toxins,NA,grab,weekly,180
+2021-09-21,inlet,mcye_ndaf,toxins,NA,passive,weekly,260
+2021-09-21,outlet,mcye_ndaf,toxins,147.5500244912651,passive,weekly,260
+2021-09-21,inlet,mcye_ndaf,toxins,178.16128359539235,grab,weekly,180
+2021-09-21,outlet,mcye_ndaf,toxins,954.6747562689293,grab,weekly,180
+2021-09-21,inlet,total_cyano,16s rrna,160071.9875766062,passive,weekly,260
+2021-09-21,outlet,total_cyano,16s rrna,158563.37034441042,passive,weekly,260
+2021-09-21,inlet,total_cyano,16s rrna,64152.19586982592,grab,weekly,180
+2021-09-21,outlet,total_cyano,16s rrna,119289.92717776827,grab,weekly,180
+2021-09-23,intake,cyra,toxins,8.061166324903846,passive,weekly,260
+2021-09-23,intake,sxta,toxins,NA,passive,weekly,260
+2021-09-23,intake,mcye_ndaf,toxins,1464.4550625161278,passive,weekly,260
+2021-09-23,intake,total_cyano,16s rrna,184065.32218185463,passive,weekly,260
+2021-09-28,inlet,total_cyano,16s rrna,198862.02713597415,passive,bi-weekly,260
+2021-09-28,inlet,total_cyano,16s rrna,103025.25716988355,grab,weekly,180
+2021-09-28,outlet,total_cyano,16s rrna,162429.83153319734,grab,weekly,180
+2021-09-28,inlet,total_cyano,16s rrna,177054.68981067996,passive,weekly,260
+2021-09-28,inlet,cyra,toxins,110.36899725987062,passive,weekly,260
+2021-09-28,inlet,cyra,toxins,63.46871737358917,passive,bi-weekly,260
+2021-09-28,inlet,cyra,toxins,54.85430501708706,grab,weekly,180
+2021-09-28,outlet,cyra,toxins,587.6566043487819,grab,weekly,180
+2021-09-28,inlet,sxta,toxins,NA,passive,weekly,260
+2021-09-28,inlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-09-28,inlet,sxta,toxins,NA,grab,weekly,180
+2021-09-28,outlet,sxta,toxins,NA,grab,weekly,180
+2021-09-28,inlet,mcye_ndaf,toxins,46.74721441859464,passive,weekly,260
+2021-09-28,inlet,mcye_ndaf,toxins,47.20087743485496,passive,bi-weekly,260
+2021-09-28,inlet,mcye_ndaf,toxins,751.8176511208294,grab,weekly,180
+2021-09-28,outlet,mcye_ndaf,toxins,20597.725226031416,grab,weekly,180
+2021-09-29,intake,cyra,toxins,91.78819867166644,passive,weekly,260
+2021-09-29,intake,sxta,toxins,NA,passive,weekly,260
+2021-09-29,intake,mcye_ndaf,toxins,10006.17881038047,passive,weekly,260
+2021-09-29,intake,total_cyano,16s rrna,435427.6906205578,passive,weekly,260
+2021-10-05,inlet,total_cyano,16s rrna,391702.0171653722,passive,weekly,260
+2021-10-05,outlet,total_cyano,16s rrna,450944.03633944225,passive,weekly,260
+2021-10-05,inlet,total_cyano,16s rrna,97229.50344071958,grab,weekly,180
+2021-10-05,outlet,total_cyano,16s rrna,98249.09854273632,grab,weekly,180
+2021-10-05,inlet,cyra,toxins,254.39647844347,passive,weekly,260
+2021-10-05,outlet,cyra,toxins,NA,passive,weekly,260
+2021-10-05,inlet,cyra,toxins,19.008491504098924,grab,weekly,180
+2021-10-05,outlet,cyra,toxins,393319.0092759488,grab,weekly,180
+2021-10-05,inlet,sxta,toxins,NA,passive,weekly,260
+2021-10-05,outlet,sxta,toxins,NA,passive,weekly,260
+2021-10-05,inlet,sxta,toxins,NA,grab,weekly,180
+2021-10-05,outlet,sxta,toxins,NA,grab,weekly,180
+2021-10-05,inlet,mcye_ndaf,toxins,803.2681418397011,passive,weekly,260
+2021-10-05,outlet,mcye_ndaf,toxins,1672.8233300538584,passive,weekly,260
+2021-10-05,inlet,mcye_ndaf,toxins,936.0172188378522,grab,weekly,180
+2021-10-05,outlet,mcye_ndaf,toxins,3949.41510661616,grab,weekly,180
+2021-10-07,intake,cyra,toxins,306.53977466741344,passive,weekly,260
+2021-10-07,intake,sxta,toxins,NA,passive,weekly,260
+2021-10-07,intake,mcye_ndaf,toxins,19638.63645848711,passive,weekly,260
+2021-10-07,intake,total_cyano,16s rrna,695816.0932791184,passive,weekly,260
+2021-10-12,inlet,total_cyano,16s rrna,178692.70071036986,grab,weekly,180
+2021-10-12,outlet,total_cyano,16s rrna,87869.26671857233,grab,weekly,180
+2021-10-12,inlet,total_cyano,16s rrna,204320.68650125744,passive,bi-weekly,260
+2021-10-12,outlet,total_cyano,16s rrna,140795.2970930476,passive,weekly,260
+2021-10-12,inlet,total_cyano,16s rrna,413668.36178949836,passive,weekly,260
+2021-10-12,outlet,total_cyano,16s rrna,164947.53970703392,passive,bi-weekly,260
+2021-10-12,inlet,cyra,toxins,NA,passive,weekly,260
+2021-10-12,inlet,cyra,toxins,63.8469658587668,passive,bi-weekly,260
+2021-10-12,outlet,cyra,toxins,571.1550841933437,passive,weekly,260
+2021-10-12,outlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-10-12,inlet,cyra,toxins,43.45094031058855,grab,weekly,180
+2021-10-12,outlet,cyra,toxins,219.75326502447217,grab,weekly,180
+2021-10-12,inlet,sxta,toxins,NA,passive,weekly,260
+2021-10-12,inlet,sxta,toxins,4.9987946838591375,passive,bi-weekly,260
+2021-10-12,outlet,sxta,toxins,NA,passive,weekly,260
+2021-10-12,outlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-10-12,inlet,sxta,toxins,NA,grab,weekly,180
+2021-10-12,outlet,sxta,toxins,NA,grab,weekly,180
+2021-10-12,inlet,mcye_ndaf,toxins,105.27798175402245,passive,weekly,260
+2021-10-12,inlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-10-12,outlet,mcye_ndaf,toxins,5507.838640472883,passive,weekly,260
+2021-10-12,outlet,mcye_ndaf,toxins,1013.9449361898712,passive,bi-weekly,260
+2021-10-12,inlet,mcye_ndaf,toxins,1433.8423175823793,grab,weekly,180
+2021-10-12,outlet,mcye_ndaf,toxins,10635.484495526005,grab,weekly,180
+2021-10-14,intake,total_cyano,16s rrna,498184.447673214,passive,weekly,260
+2021-10-14,intake,cyra,toxins,2905.6557575089955,passive,weekly,260
+2021-10-14,intake,sxta,toxins,NA,passive,weekly,260
+2021-10-14,intake,mcye_ndaf,toxins,7135.270888371815,passive,weekly,260
+2021-10-19,outlet,total_cyano,16s rrna,64381.94051488561,grab,weekly,180
+2021-10-19,inlet,total_cyano,16s rrna,378457.73769524076,passive,weekly,260
+2021-10-19,outlet,total_cyano,16s rrna,214580.30162545966,passive,weekly,260
+2021-10-19,inlet,total_cyano,16s rrna,119726.84057487689,grab,weekly,180
+2021-10-19,inlet,cyra,toxins,4.642424475954442,grab,weekly,180
+2021-10-19,outlet,cyra,toxins,17.04262344838107,grab,weekly,180
+2021-10-19,inlet,cyra,toxins,NA,passive,weekly,260
+2021-10-19,inlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-10-19,inlet,cyra,toxins,476.5391516392298,passive,weekly,260
+2021-10-19,outlet,cyra,toxins,27407.158152038643,passive,weekly,260
+2021-10-19,inlet,sxta,toxins,NA,grab,weekly,180
+2021-10-19,outlet,sxta,toxins,NA,grab,weekly,180
+2021-10-19,inlet,sxta,toxins,NA,passive,weekly,260
+2021-10-19,inlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-10-19,inlet,sxta,toxins,NA,passive,weekly,260
+2021-10-19,outlet,sxta,toxins,25.76344434825083,passive,weekly,260
+2021-10-19,inlet,mcye_ndaf,toxins,663.7966277227436,grab,weekly,180
+2021-10-19,outlet,mcye_ndaf,toxins,1508.5819323547728,grab,weekly,180
+2021-10-19,inlet,mcye_ndaf,toxins,435.72656491019933,passive,weekly,260
+2021-10-19,inlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-10-19,inlet,mcye_ndaf,toxins,370.1960672324261,passive,weekly,260
+2021-10-19,outlet,mcye_ndaf,toxins,4375.386097773617,passive,weekly,260
+2021-10-26,inlet,total_cyano,16s rrna,80355.71273299794,grab,weekly,180
+2021-10-26,outlet,total_cyano,16s rrna,150684.57968210863,grab,weekly,180
+2021-10-26,outlet,total_cyano,16s rrna,259130.09089151834,passive,weekly,260
+2021-10-26,inlet,total_cyano,16s rrna,248619.15602020096,passive,bi-weekly,260
+2021-10-26,outlet,total_cyano,16s rrna,576830.0932060746,passive,bi-weekly,260
+2021-10-26,inlet,total_cyano,16s rrna,242864.9568110182,passive,weekly,260
+2021-10-26,outlet,cyra,toxins,573.8506217533344,passive,weekly,260
+2021-10-26,outlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-10-26,outlet,cyra,toxins,41.08560245265787,grab,weekly,180
+2021-10-26,inlet,cyra,toxins,NA,grab,weekly,180
+2021-10-26,outlet,sxta,toxins,NA,passive,weekly,260
+2021-10-26,outlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-10-26,outlet,sxta,toxins,NA,grab,weekly,180
+2021-10-26,inlet,sxta,toxins,NA,grab,weekly,180
+2021-10-26,outlet,mcye_ndaf,toxins,6.986397020516909,passive,weekly,260
+2021-10-26,outlet,mcye_ndaf,toxins,4209.467028556275,passive,bi-weekly,260
+2021-10-26,outlet,mcye_ndaf,toxins,9305.410531566742,grab,weekly,180
+2021-10-26,inlet,mcye_ndaf,toxins,168.39049698465678,grab,weekly,180
+2021-11-02,inlet,total_cyano,16s rrna,147609.86616817524,passive,weekly,260
+2021-11-02,outlet,total_cyano,16s rrna,269006.41764948313,passive,weekly,260
+2021-11-02,inlet,total_cyano,16s rrna,157859.8577544212,grab,weekly,180
+2021-11-02,outlet,total_cyano,16s rrna,75418.79871883537,grab,weekly,180
+2021-11-02,inlet,cyra,toxins,NA,passive,weekly,260
+2021-11-02,outlet,cyra,toxins,NA,passive,weekly,260
+2021-11-02,inlet,cyra,toxins,NA,grab,weekly,180
+2021-11-02,outlet,cyra,toxins,4.4199473482259295,grab,weekly,180
+2021-11-02,inlet,sxta,toxins,NA,passive,weekly,260
+2021-11-02,outlet,sxta,toxins,505.8751152498107,passive,weekly,260
+2021-11-02,inlet,sxta,toxins,NA,grab,weekly,180
+2021-11-02,outlet,sxta,toxins,NA,grab,weekly,180
+2021-11-02,inlet,mcye_ndaf,toxins,54.35622848066724,passive,weekly,260
+2021-11-02,outlet,mcye_ndaf,toxins,1137.8511468965999,passive,weekly,260
+2021-11-02,inlet,mcye_ndaf,toxins,302.11206611891487,grab,weekly,180
+2021-11-02,outlet,mcye_ndaf,toxins,4138.913155906317,grab,weekly,180
+2021-11-04,intake,total_cyano,16s rrna,23878.08615691884,passive,weekly,260
+2021-11-04,intake,cyra,toxins,NA,passive,weekly,260
+2021-11-04,intake,sxta,toxins,NA,passive,weekly,260
+2021-11-04,intake,mcye_ndaf,toxins,24.636201453338096,passive,weekly,260
+2021-11-09,outlet,total_cyano,16s rrna,84864.90877523174,passive,weekly,260
+2021-11-09,inlet,total_cyano,16s rrna,219014.8726952127,grab,weekly,180
+2021-11-09,outlet,total_cyano,16s rrna,68142.94379850099,grab,weekly,180
+2021-11-09,inlet,total_cyano,16s rrna,342663.4640727389,passive,weekly,260
+2021-11-09,inlet,total_cyano,16s rrna,471565.4360237798,passive,bi-weekly,260
+2021-11-09,inlet,cyra,toxins,303.6666978104278,passive,weekly,260
+2021-11-09,inlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-11-09,outlet,cyra,toxins,NA,passive,weekly,260
+2021-11-09,inlet,cyra,toxins,NA,grab,weekly,180
+2021-11-09,outlet,cyra,toxins,NA,grab,weekly,180
+2021-11-09,inlet,sxta,toxins,NA,passive,weekly,260
+2021-11-09,inlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-11-09,outlet,sxta,toxins,NA,passive,weekly,260
+2021-11-09,inlet,sxta,toxins,NA,grab,weekly,180
+2021-11-09,outlet,sxta,toxins,NA,grab,weekly,180
+2021-11-09,inlet,mcye_ndaf,toxins,374.353592110676,passive,weekly,260
+2021-11-09,inlet,mcye_ndaf,toxins,75.61482512763327,passive,bi-weekly,260
+2021-11-09,outlet,mcye_ndaf,toxins,NA,passive,weekly,260
+2021-11-09,inlet,mcye_ndaf,toxins,169.03207417665115,grab,weekly,180
+2021-11-09,outlet,mcye_ndaf,toxins,313.73737337102534,grab,weekly,180
+2021-11-16,inlet,total_cyano,16s rrna,150510.91826297296,passive,weekly,260
+2021-11-16,outlet,total_cyano,16s rrna,99051.15553705352,passive,weekly,260
+2021-11-16,inlet,total_cyano,16s rrna,235569.2120568409,grab,weekly,180
+2021-11-16,outlet,total_cyano,16s rrna,78942.28337255868,grab,weekly,180
+2021-11-16,outlet,cyra,toxins,NA,grab,weekly,180
+2021-11-16,inlet,cyra,toxins,124.90945408955402,passive,weekly,260
+2021-11-16,outlet,cyra,toxins,NA,passive,weekly,260
+2021-11-16,inlet,cyra,toxins,NA,grab,weekly,180
+2021-11-16,outlet,sxta,toxins,NA,grab,weekly,180
+2021-11-16,inlet,sxta,toxins,NA,passive,weekly,260
+2021-11-16,outlet,sxta,toxins,NA,passive,weekly,260
+2021-11-16,inlet,sxta,toxins,NA,grab,weekly,180
+2021-11-16,outlet,mcye_ndaf,toxins,840.9593578792427,grab,weekly,180
+2021-11-16,inlet,mcye_ndaf,toxins,423.05278907799396,passive,weekly,260
+2021-11-16,outlet,mcye_ndaf,toxins,565.6939572071614,passive,weekly,260
+2021-11-16,inlet,mcye_ndaf,toxins,593.7456314339368,grab,weekly,180
+2021-11-25,intake,total_cyano,16s rrna,113565.60033290688,passive,weekly,260
+2021-11-25,intake,cyra,toxins,NA,passive,weekly,260
+2021-11-25,intake,sxta,toxins,NA,passive,weekly,260
+2021-11-25,intake,mcye_ndaf,toxins,6860.19529919375,passive,weekly,260
+2021-11-30,outlet,total_cyano,16s rrna,107690.62699640219,passive,bi-weekly,260
+2021-11-30,inlet,total_cyano,16s rrna,182407.1435155898,grab,weekly,180
+2021-11-30,outlet,total_cyano,16s rrna,158641.73006057309,grab,weekly,180
+2021-11-30,inlet,total_cyano,16s rrna,778904.5636140425,passive,bi-weekly,260
+2021-11-30,inlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-11-30,outlet,cyra,toxins,NA,passive,bi-weekly,260
+2021-11-30,inlet,cyra,toxins,4.863381302297895,grab,weekly,180
+2021-11-30,outlet,cyra,toxins,NA,grab,weekly,180
+2021-11-30,inlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-11-30,outlet,sxta,toxins,NA,passive,bi-weekly,260
+2021-11-30,inlet,sxta,toxins,NA,grab,weekly,180
+2021-11-30,outlet,sxta,toxins,NA,grab,weekly,180
+2021-11-30,inlet,mcye_ndaf,toxins,269.3795129128099,passive,bi-weekly,260
+2021-11-30,outlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
+2021-11-30,inlet,mcye_ndaf,toxins,1154.5865379975512,grab,weekly,180
+2021-11-30,outlet,mcye_ndaf,toxins,453.0448041596573,grab,weekly,180
+2021-07-19,intake,total_cyano,16s,61524.24399999999,grab,weekly,45
+2021-07-29,intake,total_cyano,16s,60204.052,grab,weekly,45
+2021-08-12,intake,total_cyano,16s,46159.748,grab,weekly,45
+2021-08-26,intake,total_cyano,16s,64020.043999999994,grab,weekly,45
+2021-09-09,intake,total_cyano,16s,11973.656,grab,weekly,45
+2021-09-23,intake,total_cyano,16s,25461.888,grab,weekly,45
+2021-10-07,intake,total_cyano,16s,13839.011999999999,grab,weekly,45
+2021-10-21,intake,total_cyano,16s,8263.012,grab,weekly,45
+2021-10-28,intake,total_cyano,16s,7297.016,grab,weekly,45
+2021-07-19,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-07-19,intake,cyra,toxins,NA,grab,weekly,45
+2021-07-19,intake,sxta,toxins,NA,grab,weekly,45
+2021-07-29,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-07-29,intake,cyra,toxins,NA,grab,weekly,45
+2021-07-29,intake,sxta,toxins,NA,grab,weekly,45
+2021-08-12,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-08-12,intake,cyra,toxins,NA,grab,weekly,45
+2021-08-12,intake,sxta,toxins,NA,grab,weekly,45
+2021-08-26,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-08-26,intake,cyra,toxins,NA,grab,weekly,45
+2021-08-26,intake,sxta,toxins,NA,grab,weekly,45
+2021-09-09,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-09-09,intake,cyra,toxins,NA,grab,weekly,45
+2021-09-09,intake,sxta,toxins,NA,grab,weekly,45
+2021-09-16,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-09-16,intake,cyra,toxins,NA,grab,weekly,45
+2021-09-16,intake,sxta,toxins,NA,grab,weekly,45
+2021-09-23,intake,mcye_ndaf,toxins,255.688,grab,weekly,45
+2021-09-23,intake,cyra,toxins,NA,grab,weekly,45
+2021-09-23,intake,sxta,toxins,NA,grab,weekly,45
+2021-09-29,intake,mcye_ndaf,toxins,288.44,grab,weekly,45
+2021-09-29,intake,cyra,toxins,NA,grab,weekly,45
+2021-09-29,intake,sxta,toxins,NA,grab,weekly,45
+2021-10-07,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-10-07,intake,cyra,toxins,NA,grab,weekly,45
+2021-10-07,intake,sxta,toxins,NA,grab,weekly,45
+2021-10-14,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-10-14,intake,cyra,toxins,NA,grab,weekly,45
+2021-10-14,intake,sxta,toxins,NA,grab,weekly,45
+2021-10-21,intake,mcye_ndaf,toxins,NA,grab,weekly,45
+2021-10-21,intake,cyra,toxins,NA,grab,weekly,45
+2021-10-21,intake,sxta,toxins,NA,grab,weekly,45
