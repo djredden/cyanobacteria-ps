@@ -11,19 +11,43 @@ path <- here::here("raw_data/dwtp_grab_samples/2021-qpcr-results.xlsx")
 sheets <- readxl::excel_sheets(path)
 
 # Read and tidy 16S data
-cp_16s_raw <- read_cp_data(path, sheet = sheets[2]) %>% 
-    select(protocol, sample_id, 
+cp_16s <- read_cp_data(path, sheet = sheets[2]) %>% 
+    select(run_date = x1, 
+           protocol, sample_id, 
            total_cyano = fam_std_res,
            iac = cy3_std_res,
-           contains("ct")) 
+           contains("ct")) %>% 
+  mutate(run_date = as.Date(run_date, "%Y-%m-%d")) 
+
+# Dates of runs where NTC indicated contamination  
+ntc_16s <- cp_16s %>% 
+  filter(sample_id == "ntc",
+         total_cyano != "nd") %>% 
+  select(run_date)
+
+cp_16s_raw <- cp_16s %>% 
+  filter(!run_date %in% ntc_16s)
 
 # Read and tidy toxin data  
-cp_tox_raw <- read_cp_data(path, sheet = sheets[4]) %>% 
-  select(protocol, sample_id, 
+cp_tox <- read_cp_data(path, sheet = sheets[4]) %>% 
+  select(run_date = x1, 
+         protocol, sample_id, 
          mcye_ndaf = fam_std_res,
          cyra = cy3_std_res,
          sxta = txr_std_res,
          contains("ct")) 
+
+# Dates where NTCs indicated contamination
+ntc_tox <- cp_tox %>% 
+  filter(sample_id == "ntc") %>% 
+  pivot_longer(cols = mcye_ndaf : sxta,
+               names_to = "param",
+               values_to = "value") %>% 
+  filter(value != "nd") %>% 
+  select(run_date)
+         
+cp_tox_raw <- cp_tox %>% 
+  filter(!run_date %in% ntc_tox)
          
 # Combine and put in long format
 cp_complete_long <- cp_16s_raw %>% 

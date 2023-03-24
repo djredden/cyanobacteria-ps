@@ -13,6 +13,20 @@ read_fcn <- function(file){
     )
 }
 
+# Function to read adsorption data
+read_ads_data <- function(file){
+  readxl::read_xlsx(
+    path = paste(here::here("raw_data/adsorption_data"),file, sep = "/")) %>%
+    mutate(file_name = gsub(".xlsx", "", file)) %>%
+    rename_with(., ~ tolower(gsub(" ", "_", .x))) %>%
+    mutate(
+      across(
+        .cols = where(is.character),
+        .fns = tolower
+      )
+    )
+}
+
 # Linear model function for standard curves
 curve_model <- function(df) {
   lm(cq_mean ~ log_starting_quantity, data = df)
