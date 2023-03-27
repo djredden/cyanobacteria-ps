@@ -54,11 +54,6 @@ gam2 <- mgcv::gam(
 
 saveRDS(gam2, file = here::here("models/gam2"))
 
-# Model checks
-par(mfrow = c(2, 2))
-mgcv::gam.check(gam2)
-par(mfrow = c(1, 1))
-
 # Create DF to back transform model predictions
 scaling_mcye <- cleaned_data %>%
   filter(target == "mcyE/ndaF") %>% 

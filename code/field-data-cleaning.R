@@ -90,7 +90,7 @@ cp_grab_cleaned <- cp_complete_long %>%
 ## passive samples from DWTP intake
   
 # List all the raw qPCR files from the field study
-file_list <- list.files(path = here::here("raw_data/field_data"),
+file_list <- list.files(path = here::here("raw_data/qpcr_data"),
                         pattern = "CyanoDTec*")
 
 # Read and clean
