@@ -3,13 +3,13 @@ library(tidyverse)
 library(scales)
 source(here::here("code/functions.R"))
 
-file_list <- list.files(here::here("raw_data/adsorption_data"))
+file_list <- list.files(here::here("raw_data/qpcr_data"))
 
 # Read std curve data
 curve_results <- read_csv(here::here("output/curve-results.csv"))
 
 # Read and clean
-adsorption_data_raw <- map(file_list, read_ads_data) %>%
+adsorption_data_raw <- map(file_list, read_fcn) %>%
   bind_rows() %>% 
   select(sample, content, fluor, assay = biological_set_name, cq) %>% 
   #creates a column for sample location and material based on sample names
@@ -26,7 +26,7 @@ adsorption_data_raw <- map(file_list, read_ads_data) %>%
   # Compute the gene copy concentrations per uL in the well
   mutate(gu_well = 10^((cq - intercept) / slope))
 
-adsorption_8hr_test <- adsorption_data_raw %>% 
+adsorption_8hr <- adsorption_data_raw %>% 
   #Removes rows that are not part of the sampling program (ie. not from FL), including CP
   filter(lake %in% c("wl", "gl", "cl", "lp")) %>% 
   mutate(sample = case_when(material == "c"~"control",
@@ -41,7 +41,7 @@ adsorption_8hr_test <- adsorption_data_raw %>%
                           lake == "cl"~"chocolate")) %>% 
   mutate(type = case_when(sample == "control"~"volume",
                           sample == "initial"~"volume",
-                          TRUE~"area")) %>% 
+                          TRUE~"area")) %>%
   select(-dash, -material, -time) %>% 
   # Add column containing passive sampler area (25 cm diameter filter) and grab sample volume (100 mL)
     mutate(area_vol = if_else(type == "area", 
@@ -52,11 +52,11 @@ adsorption_8hr_test <- adsorption_data_raw %>%
   filter(target == "total_cyano") %>% 
   mutate(lod = 9*500/area_vol) 
                        
-write_csv(adsorption_8hr_test, here::here("cleaned_data/adsorption_8hr.csv"))
+write_csv(adsorption_8hr, here::here("cleaned_data/adsorption_8hr.csv"))
   
 # 24hr adsorption data
 
-ads_24_raw <- read_ads_data("CyanoDTec_16S_FL_MONC_Adsorption_Results.xlsx") %>% 
+adsorption_24hr <- read_fcn("CyanoDTec_16S_FL_MONC_Adsorption_Results.xlsx") %>% 
   select(sample, content, fluor, assay = biological_set_name, cq, day, run, id, dilution) %>% 
   separate(sample, c("replicate","dash", "material", "time"), sep = " ") %>% 
   mutate(sample = case_when(material == "c"~"control",
@@ -98,7 +98,8 @@ ads_24_raw <- read_ads_data("CyanoDTec_16S_FL_MONC_Adsorption_Results.xlsx") %>%
                          run == "c"~"run 2a",
                          run == "d"~"run 2b")) %>% 
   select(assay, cq, day, run, id, dilution, sample, target,
-         gu_well, area_vol, gu_conc, lod)
+         gu_well, area_vol, gu_conc, lod) %>% 
+  filter(!is.na(id))
 
 
 # Save the cleaned files

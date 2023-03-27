@@ -2,21 +2,7 @@
 # Function to read in batch of excel files
 read_fcn <- function(file){
   readxl::read_xlsx(
-    path = paste(here::here("raw_data/field_data"),file, sep = "/")) %>%
-    mutate(file_name = gsub(".xlsx", "", file)) %>%
-    rename_with(., ~ tolower(gsub(" ", "_", .x))) %>%
-    mutate(
-      across(
-        .cols = where(is.character),
-        .fns = tolower
-      )
-    )
-}
-
-# Function to read adsorption data
-read_ads_data <- function(file){
-  readxl::read_xlsx(
-    path = paste(here::here("raw_data/adsorption_data"),file, sep = "/")) %>%
+    path = paste(here::here("raw_data/qpcr_data"),file, sep = "/")) %>%
     mutate(file_name = gsub(".xlsx", "", file)) %>%
     rename_with(., ~ tolower(gsub(" ", "_", .x))) %>%
     mutate(

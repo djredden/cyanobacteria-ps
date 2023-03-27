@@ -52,8 +52,8 @@ rsconnect/
 code/old/
 
 # Data files 
-/raw_data/
-cleaned_data/
+~/raw_data/
+~/cleaned_data/
 
 # Output files
 /output/

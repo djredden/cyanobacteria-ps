@@ -130,6 +130,9 @@ date,location,target,assay,conc,type,frequency,lod
 2021-08-17,inlet,mcye_ndaf,toxins,NA,passive,bi-weekly,260
 2021-08-17,inlet,mcye_ndaf,toxins,558.6644237039828,grab,weekly,180
 2021-08-17,outlet,mcye_ndaf,toxins,1923.8811005400983,grab,weekly,180
+2021-08-19,intake,cyra,toxins,NA,passive,weekly,260
+2021-08-19,intake,sxta,toxins,NA,passive,weekly,260
+2021-08-19,intake,mcye_ndaf,toxins,4249.1492968002685,passive,weekly,260
 2021-08-19,intake,total_cyano,16s rrna,760993.6346695026,passive,weekly,260
 2021-08-24,outlet,total_cyano,16s rrna,73618.40026812552,passive,bi-weekly,260
 2021-08-24,inlet,total_cyano,16s rrna,90394.81608600049,grab,weekly,180
@@ -151,6 +154,9 @@ date,location,target,assay,conc,type,frequency,lod
 2021-08-24,outlet,mcye_ndaf,toxins,1734.4855729072349,grab,weekly,180
 2021-08-24,inlet,mcye_ndaf,toxins,NA,passive,weekly,260
 2021-08-24,outlet,mcye_ndaf,toxins,8.49799467863854,passive,weekly,260
+2021-08-26,intake,cyra,toxins,NA,passive,weekly,260
+2021-08-26,intake,sxta,toxins,NA,passive,weekly,260
+2021-08-26,intake,mcye_ndaf,toxins,2791.8339150340053,passive,weekly,260
 2021-08-26,intake,total_cyano,16s rrna,884351.8509090891,passive,weekly,260
 2021-08-31,inlet,total_cyano,16s rrna,524977.997196516,passive,weekly,260
 2021-08-31,inlet,total_cyano,16s rrna,1322990.439894711,passive,bi-weekly,260
@@ -181,6 +187,9 @@ date,location,target,assay,conc,type,frequency,lod
 2021-09-02,intake,sxta,toxins,NA,passive,weekly,260
 2021-09-02,intake,mcye_ndaf,toxins,3236.89523531144,passive,weekly,260
 2021-09-02,intake,total_cyano,16s rrna,196051.27988676168,passive,weekly,260
+2021-09-07,inlet,cyra,toxins,403.0220166671137,passive,weekly,260
+2021-09-07,inlet,sxta,toxins,1225.3430378077321,passive,weekly,260
+2021-09-07,inlet,mcye_ndaf,toxins,25.99601717203061,passive,weekly,260
 2021-09-07,inlet,total_cyano,16s rrna,2285301.7054287842,passive,weekly,260
 2021-09-07,outlet,total_cyano,16s rrna,1225640.9212361556,passive,weekly,260
 2021-09-07,inlet,total_cyano,16s rrna,274321.6841132201,grab,weekly,180
@@ -202,6 +211,9 @@ date,location,target,assay,conc,type,frequency,lod
 2021-09-09,intake,sxta,toxins,NA,passive,weekly,260
 2021-09-09,intake,mcye_ndaf,toxins,3593.1310773929204,passive,weekly,260
 2021-09-09,intake,total_cyano,16s rrna,196095.7651004624,passive,weekly,260
+2021-09-14,inlet,cyra,toxins,606.5062058712009,passive,bi-weekly,260
+2021-09-14,inlet,sxta,toxins,800.4480760872015,passive,bi-weekly,260
+2021-09-14,inlet,mcye_ndaf,toxins,45.29449969430935,passive,bi-weekly,260
 2021-09-14,inlet,total_cyano,16s rrna,2216230.9353322526,passive,bi-weekly,260
 2021-09-14,outlet,total_cyano,16s rrna,1085305.4411973297,passive,weekly,260
 2021-09-14,outlet,total_cyano,16s rrna,708905.9513902199,passive,bi-weekly,260
