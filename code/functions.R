@@ -33,6 +33,34 @@ read_cp_data <- function(file, sheet){
     )
 }
 
+# Create function to compute geometric mean and quantiles for boxplots
+bp.vals <- function(x, probs=c(0, 0.25, 0.75, 1)) {
+  r <- quantile(x, probs=probs , na.rm=TRUE)
+  r = c(r[1:2], exp(mean(log(x))), r[3:4])
+  names(r) <- c("ymin", "lower", "middle", "upper", "ymax")
+  r
+}
+
+# Function to compute summary statistics of adsorption data
+
+mean_sd_fcn <- function(data) {
+  data %>%
+    filter(!sample %in% c("initial", "control")) %>%
+    group_by(sample) %>%
+    summarise(
+      n = n(),
+      avg = exp(mean(log(gu_conc), na.rm = TRUE)),
+      minus_sd = exp(mean(log(gu_conc)) - sd(log(gu_conc), na.rm = TRUE)),
+      plus_sd = exp(mean(log(gu_conc)) + sd(log(gu_conc), na.rm = TRUE)),
+    ) %>%
+    mutate(
+      across(
+        where(is.numeric), ~ scales::scientific(.x, digits = 2)
+      )
+    ) 
+}
+
+
 # Plotting functions
 UniquePanelCoords <- ggplot2::ggproto(
   "UniquePanelCoords", ggplot2::CoordCartesian,
