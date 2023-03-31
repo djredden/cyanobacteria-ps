@@ -144,6 +144,8 @@ std_data <- field_data_raw %>%
   filter(str_detect(content, "std")) %>%
   filter(!target == "iac") 
 
+write_csv(std_data, here::here("output/biorad.csv"))
+
 # Standard curve results (standards are copies/uL)
 curve_results <- std_data %>%
   group_by(target) %>%
@@ -254,8 +256,3 @@ plot_data <- field_data_cleaned %>%
   )) 
 
 write_csv(plot_data, here::here("cleaned_data/plot_data.csv"))
-
-plot_data %>%
-  group_by(date, location, target, type, frequency) %>%
-  mutate(n = n()) %>% view()
-  filter(n >1)

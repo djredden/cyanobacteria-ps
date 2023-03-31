@@ -50,9 +50,12 @@ gam1 <- mgcv::gam(
 saveRDS(gam1, file = here::here("models/gam1"))
 
 # Model checks
-par(mfrow = c(2, 2))
-mgcv::gam.check(gam1)
-par(mfrow = c(1, 1))
+gam1_checks <- gratia::appraise(gam1)
+
+ggsave(gam1_checks,
+       filename = here::here("output/gam1_diagnostics.tiff"),
+       height = 8, width = 12, dpi = 300
+)
 
 # Create DF to back transform model predictions
 scaling_16s <- cleaned_data %>%

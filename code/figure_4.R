@@ -53,6 +53,14 @@ gam2 <- mgcv::gam(
 
 saveRDS(gam2, file = here::here("models/gam2"))
 
+# Model checks
+gam2_checks <- gratia::appraise(gam2)
+
+ggsave(gam2_checks,
+       filename = here::here("output/gam2_diagnostics.tiff"),
+       height = 8, width = 12, dpi = 300
+)
+
 # Create DF to back transform model predictions
 scaling_mcye <- cleaned_data %>%
   filter(target == "mcyE/ndaF") %>% 

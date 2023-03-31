@@ -95,6 +95,6 @@ adsorption_24hr %>%
     fill = "Sampling Event"
   )
 
-ggsave(here::here("output/figure_1.jpg"),
+ggsave(here::here("output/figure_1.tiff"),
        height = 5, width = 11, dpi = 300
 )

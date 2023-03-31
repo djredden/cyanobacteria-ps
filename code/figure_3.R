@@ -28,12 +28,6 @@ cleaned_data <- read_csv(here::here("cleaned_data/plot_data.csv")) %>%
                             "bolditalic(`cyrA`)",
                             "bolditalic(`sxtA`)")))
 
-cleaned_data %>% 
-  filter(location == "Inlet",
-         target == "cyrA", 
-         type == "Passive") %>% 
-  view()
-
 # Figure 3 - times series of all toxin data faceted by sample type and target
 
 figure_3 <- cleaned_data %>%
