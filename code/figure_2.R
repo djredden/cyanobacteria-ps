@@ -9,12 +9,12 @@ theme_set(theme_bw() +
             theme(
               axis.text = element_text(size = 14, color = "black"),
               axis.title = element_text(size = 16),
-              legend.title = element_text(size = 16),
+              legend.title = element_text(size = 14),
               legend.text = element_text(size = 14),
-              strip.text = element_text(size = 14, face = "bold"),
+              strip.text = element_text(size = 16, face = "bold"),
               strip.background = element_rect(fill = "white"),
               panel.spacing.x = unit(0.5, "lines"),
-              panel.spacing.y = unit(1.5, "lines")
+              panel.spacing.y = unit(1, "lines")
             ))
 
 cleaned_data <- read_csv(here::here("cleaned_data/plot_data.csv")) %>% 

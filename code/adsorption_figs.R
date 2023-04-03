@@ -8,11 +8,11 @@ source(here::here("code/functions.R"))
 
 theme_set(theme_bw() +
             theme(
-              axis.text = element_text(size = 10, color = "black"),
-              axis.title = element_text(size = 12),
-              legend.title = element_text(size = 11),
-              legend.text = element_text(size = 10),
-              strip.text = element_text(size = 12, face = "bold"),
+              axis.text = element_text(size = 22, color = "black"),
+              axis.title = element_text(size = 24),
+              legend.title = element_text(size = 22),
+              legend.text = element_text(size = 22),
+              strip.text = element_text(size = 24, face = "bold"),
               strip.background = element_rect(fill = "white"),
               panel.spacing.x = unit(0.5, "lines"),
               panel.spacing.y = unit(1, "lines")
@@ -96,5 +96,5 @@ adsorption_24hr %>%
   )
 
 ggsave(here::here("output/figure_1.tiff"),
-       height = 5, width = 11, dpi = 300
+       height = 5, width = 6, dpi = 300
 )

@@ -207,7 +207,9 @@ field_data_cleaned <- field_data_all %>%
   filter(date > "2021-07-12") %>%
   select(-c(fluor, sample)) %>% 
   # Some samples were run twice. Keep their mean value
-  group_by(date, location, target, type, frequency) %>% 
+  group_by(date, location, target, assay, type, frequency) %>% 
+  summarise(conc = mean(conc), lod = mean(lod)) -> X
+    view()
   summarise(date = head(date),
             location = head(location),
             target = head(target),
