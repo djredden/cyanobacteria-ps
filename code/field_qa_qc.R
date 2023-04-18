@@ -116,7 +116,12 @@ ggsave(curves,
        height = 6, width = 10, dpi = 300
 )
 
-  
+
+# NTC checks
+
+field_ntcs <- read_csv(here::here("cleaned_data/field_data_compiled.csv")) %>% 
+  filter(content == "ntc") %>% 
+  arrange(target)
  
 
 
