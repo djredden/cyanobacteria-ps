@@ -55,7 +55,7 @@ SI_8hr_adsorption <- adsorption_8hr %>%
     }))
   )
 
-ggsave(here::here("output/SI_8hr_adsorption.jpg"), SI_8hr_adsorption,
+ggsave(here::here("output/SI_8hr_adsorption.tiff"), SI_8hr_adsorption,
        height = 6, width = 8, dpi = 300
 )
 
