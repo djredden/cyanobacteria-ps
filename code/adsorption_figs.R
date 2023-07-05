@@ -96,5 +96,5 @@ adsorption_24hr %>%
   )
 
 ggsave(here::here("output/figure_1.tiff"),
-       height = 5, width = 6, dpi = 300
+       height = 5, width = 10, dpi = 300
 )
